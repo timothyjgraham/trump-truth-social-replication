@@ -1,0 +1,137 @@
+{
+  "title": "Finding 4: The oil imbalance extends beyond USO to the major oil equities (XOM, CVX)",
+  "note": "Pre-event informed-flow imbalance ahead of oil-themed Trump posts shows up not just in the commodity ETF (USO) but also in the two largest US oil companies (XOM, CVX). JPM also shows positive OFI ahead of oil-themed posts; most tech names (NVDA, MSFT, META) and GS show the attention-damped pattern (negative vpin_z) instead of an informed-flow signature.",
+  "topic": "energy_oil",
+  "window": "pre (6 \u00d7 5min = 30 min before post)",
+  "universe": "initiated events only (|pre-CAR z| < 1.5)",
+  "oil_complex_survivors_fdr05": [
+    {
+      "asset": "XLE",
+      "signal": "OFI_bvc",
+      "mean": 0.048342476216793,
+      "placebo_mean": 0.01114882019181924,
+      "delta_vs_placebo": 0.037193656024973765,
+      "p_fdr_trim": 7.305042256039103e-11,
+      "n": 165
+    },
+    {
+      "asset": "XLE",
+      "signal": "vpin_z",
+      "mean": -0.5937454683577623,
+      "placebo_mean": -0.02639484233106226,
+      "delta_vs_placebo": -0.5673506260267001,
+      "p_fdr_trim": 3.835387333342449e-12,
+      "n": 165
+    },
+    {
+      "asset": "USO",
+      "signal": "signed_vol_tick",
+      "mean": -69786.80952380953,
+      "placebo_mean": -2017.865876250463,
+      "delta_vs_placebo": -67768.94364755906,
+      "p_fdr_trim": 0.0456,
+      "n": 147
+    },
+    {
+      "asset": "USO",
+      "signal": "vpin_z",
+      "mean": 0.3798526915775937,
+      "placebo_mean": 0.056483427189287776,
+      "delta_vs_placebo": 0.32336926438830593,
+      "p_fdr_trim": 1.3091586775402288e-05,
+      "n": 147
+    },
+    {
+      "asset": "XOM",
+      "signal": "signed_vol_tick",
+      "mean": 342721.6886227545,
+      "placebo_mean": -14885.739925373135,
+      "delta_vs_placebo": 357607.4285481276,
+      "p_fdr_trim": 0.0001293782226277,
+      "n": 167
+    },
+    {
+      "asset": "XOM",
+      "signal": "OFI_bvc",
+      "mean": 0.0327733431756597,
+      "placebo_mean": 0.005004523584399375,
+      "delta_vs_placebo": 0.027768819591260326,
+      "p_fdr_trim": 0.0016703296703296,
+      "n": 167
+    },
+    {
+      "asset": "XOM",
+      "signal": "vpin_z",
+      "mean": -0.4025447657901865,
+      "placebo_mean": -0.026508231530289195,
+      "delta_vs_placebo": -0.3760365342598973,
+      "p_fdr_trim": 5.699157708399204e-06,
+      "n": 167
+    },
+    {
+      "asset": "CVX",
+      "signal": "signed_vol_tick",
+      "mean": 164869.39156626505,
+      "placebo_mean": 145.61618798955612,
+      "delta_vs_placebo": 164723.7753782755,
+      "p_fdr_trim": 6.275939836051495e-07,
+      "n": 166
+    },
+    {
+      "asset": "CVX",
+      "signal": "OFI_bvc",
+      "mean": 0.0383970729385493,
+      "placebo_mean": 0.004452691475015773,
+      "delta_vs_placebo": 0.03394438146353353,
+      "p_fdr_trim": 3.935189815113454e-08,
+      "n": 166
+    },
+    {
+      "asset": "CVX",
+      "signal": "vpin_z",
+      "mean": -0.2590708668097665,
+      "placebo_mean": 0.05034189055049552,
+      "delta_vs_placebo": -0.309412757360262,
+      "p_fdr_trim": 0.0029230769230769,
+      "n": 166
+    }
+  ],
+  "individual_name_patterns": {
+    "oil_equities_buy_imbalance": {
+      "assets": [
+        "XOM",
+        "CVX"
+      ],
+      "pattern": "positive OFI_bvc and signed_vol_tick pre-event across energy_oil, iran_military, market_economy topics"
+    },
+    "tech_names_damped_vpin": {
+      "assets": [
+        "NVDA",
+        "MSFT",
+        "META",
+        "TSLA"
+      ],
+      "pattern": "negative vpin_z pre-event \u2014 informed-trading intensity FALLS ahead of Trump posts, i.e. market makers hold back (attention-risk-off pattern, not insider trading)"
+    },
+    "banks_mixed": {
+      "assets": [
+        "JPM",
+        "GS"
+      ],
+      "pattern": "JPM shows positive OFI_bvc pre-event (buying) on energy_oil and iran_military; GS shows negative OFI and damped VPIN (attention retreat)"
+    },
+    "aapl_anomaly": {
+      "assets": [
+        "AAPL"
+      ],
+      "pattern": "positive OFI_bvc and signed_vol_tick pre-event across three topics; interpretation ambiguous (likely broad-macro co-movement, not a targeted informed signal)"
+    }
+  },
+  "friends_vs_self_null": {
+    "topic_musk_tesla": 0,
+    "topic_big_tech": 1,
+    "topic_big_oil_companies": 0,
+    "topic_big_banks": 2,
+    "interpretation": "Trump did not post about these friends-adjacent entities in the 2026-01-26 \u2192 2026-04-09 overlap window (where we have minute-level market data). The friends-vs-self analysis as originally scoped cannot be done on this window. Extending the market-data window further back would require a paid data source; a mixed-methods workaround using sector ETFs (XLK for Big Tech, XLE/oil-equities for Big Oil, XLF/JPM/GS for Big Banks) on the full 1,341-post topic universe is what this finding does."
+  }
+}

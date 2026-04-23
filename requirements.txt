@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+scipy>=1.11,<2.0
+pyarrow>=14.0          # parquet I/O for pandas
+
+# Plotting
+matplotlib>=3.8,<4.0
+
+# Data collection
+requests>=2.31         # Truth Social + CNN archive HTTP
+yfinance>=0.2.40       # minute-bar OHLCV
+ftfy>=6.1              # unicode mojibake repair (optional but recommended)

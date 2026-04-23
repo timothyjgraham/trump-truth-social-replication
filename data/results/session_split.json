@@ -1,0 +1,260 @@
+{
+  "method": "Session-split event study on oil-themed initiated posts. For each (asset, session, signal, window) cell we report the pre/post mean across initiated oil-themed posts in that session, the standard error, the bootstrap p-value vs zero, and the asset's overall matched-placebo baseline for context.",
+  "config": {
+    "pre_bars": 6,
+    "post_bars": 6,
+    "initiated_pre_bars": 24,
+    "initiated_sigma_bars": 250,
+    "initiated_threshold": 1.5,
+    "bootstrap_draws": 5000,
+    "rng_seed": 20260423
+  },
+  "sessions_tested": [
+    "regular",
+    "after_hours",
+    "weekend",
+    "pre_market"
+  ],
+  "assets": [
+    "XLE",
+    "USO"
+  ],
+  "signals": [
+    "OFI_bvc",
+    "vpin_z"
+  ],
+  "n_oil_posts_by_session": {
+    "after_hours": 99,
+    "regular": 54,
+    "weekend": 13,
+    "pre_market": 7
+  },
+  "results": {
+    "XLE": {
+      "regular": {
+        "n": 48,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": 0.08668134128721139,
+            "pre_std": 0.07562769763118792,
+            "pre_se": 0.010915917896389493,
+            "pre_boot_p": 0.0,
+            "post_mean": 0.15160092751527013,
+            "post_std": 0.14673578855872552,
+            "post_se": 0.021179486756033046,
+            "post_boot_p": 0.0
+          },
+          "vpin_z": {
+            "pre_mean": -0.07822656297200072,
+            "pre_std": 0.6719749147021563,
+            "pre_se": 0.09699122447299144,
+            "pre_boot_p": 0.4156,
+            "post_mean": -0.08093964544981805,
+            "post_std": 0.5779920018826534,
+            "post_se": 0.08342595946910017,
+            "post_boot_p": 0.324
+          }
+        }
+      },
+      "after_hours": {
+        "n": 98,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": 0.04458221913519858,
+            "pre_std": 0.07910251380313091,
+            "pre_se": 0.007990560559870906,
+            "pre_boot_p": 0.0,
+            "post_mean": 0.0,
+            "post_std": 0.0,
+            "post_se": 0.0,
+            "post_boot_p": 2.0
+          },
+          "vpin_z": {
+            "pre_mean": -0.9610859454897541,
+            "pre_std": 0.7978135330060218,
+            "pre_se": 0.0805913370444222,
+            "pre_boot_p": 0.0,
+            "post_mean": -1.0612788506137336,
+            "post_std": 1.093639353733438,
+            "post_se": 0.11047425759962676,
+            "post_boot_p": 0.0
+          }
+        }
+      },
+      "weekend": {
+        "n": 13,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": -0.037238201623589186,
+            "pre_std": 0.035883628959325925,
+            "pre_se": 0.009952328012505703,
+            "pre_boot_p": 0.0,
+            "post_mean": -0.044750452557388215,
+            "post_std": 0.04312261509197075,
+            "post_se": 0.011960061526630601,
+            "post_boot_p": 0.0
+          },
+          "vpin_z": {
+            "pre_mean": 0.23350175096929002,
+            "pre_std": 1.1420917310603218,
+            "pre_se": 0.3167592536631861,
+            "pre_boot_p": 0.4164,
+            "post_mean": -0.7821952335414752,
+            "post_std": 2.2314474658615935,
+            "post_se": 0.6188921735898582,
+            "post_boot_p": 0.1584
+          }
+        }
+      },
+      "pre_market": {
+        "n": 6,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": -0.011526110026349033,
+            "pre_std": 0.02823308828373231,
+            "pre_se": 0.011526110026349037,
+            "pre_boot_p": 0.2576,
+            "post_mean": -0.016607266162141178,
+            "post_std": 0.033243211861152755,
+            "post_se": 0.013571484411843627,
+            "post_boot_p": 0.154
+          },
+          "vpin_z": {
+            "pre_mean": -0.3436227437742714,
+            "pre_std": 0.12279683652145704,
+            "pre_se": 0.08683047581257816,
+            "pre_boot_p": NaN,
+            "post_mean": -0.2837437951795423,
+            "post_std": 2.2523121932201544,
+            "post_se": 1.3003730510547327,
+            "post_boot_p": NaN
+          }
+        }
+      }
+    },
+    "USO": {
+      "regular": {
+        "n": 49,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": -0.05066294633523778,
+            "pre_std": 0.1808314645201702,
+            "pre_se": 0.025833066360024314,
+            "pre_boot_p": 0.048,
+            "post_mean": 0.009783613469369994,
+            "post_std": 0.12390969894945118,
+            "post_se": 0.017701385564207313,
+            "post_boot_p": 0.5848
+          },
+          "vpin_z": {
+            "pre_mean": 0.12768244449810753,
+            "pre_std": 0.7678274888412889,
+            "pre_se": 0.10968964126304127,
+            "pre_boot_p": 0.2156,
+            "post_mean": 0.11578389913672203,
+            "post_std": 0.8756074636468908,
+            "post_se": 0.1250867805209844,
+            "post_boot_p": 0.3512
+          }
+        }
+      },
+      "after_hours": {
+        "n": 81,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": 0.010503681972240782,
+            "pre_std": 0.028505173256927495,
+            "pre_se": 0.0031672414729919437,
+            "pre_boot_p": 0.0028,
+            "post_mean": 0.0,
+            "post_std": 0.0,
+            "post_se": 0.0,
+            "post_boot_p": 2.0
+          },
+          "vpin_z": {
+            "pre_mean": 0.5074079755535484,
+            "pre_std": 0.8762099272814315,
+            "pre_se": 0.09735665858682573,
+            "pre_boot_p": 0.0,
+            "post_mean": 0.28756434169450606,
+            "post_std": 1.307185873438576,
+            "post_se": 0.14524287482650844,
+            "post_boot_p": 0.0364
+          }
+        }
+      },
+      "weekend": {
+        "n": 12,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": -0.11954645805415008,
+            "pre_std": 0.10552782226832685,
+            "pre_se": 0.03046325829680675,
+            "pre_boot_p": 0.0,
+            "post_mean": -0.12808313221496503,
+            "post_std": 0.11306344187821145,
+            "post_se": 0.0326386043019455,
+            "post_boot_p": 0.0
+          },
+          "vpin_z": {
+            "pre_mean": 0.5984150660256485,
+            "pre_std": 1.2998458633824435,
+            "pre_se": 0.37523317956443764,
+            "pre_boot_p": 0.08,
+            "post_mean": 1.2492943882814793,
+            "post_std": 2.0474916311500397,
+            "post_se": 0.5910599222039907,
+            "post_boot_p": 0.0296
+          }
+        }
+      },
+      "pre_market": {
+        "n": 5,
+        "signals": {
+          "OFI_bvc": {
+            "pre_mean": -0.04098735704713717,
+            "pre_std": 0.09165051657545377,
+            "pre_se": 0.04098735704713717,
+            "pre_boot_p": 0.384,
+            "post_mean": 0.011940040803674296,
+            "post_std": 0.1771236080862465,
+            "post_se": 0.07921208562017572,
+            "post_boot_p": 0.7672
+          },
+          "vpin_z": {
+            "pre_mean": 0.08066049731051572,
+            "pre_std": 2.0455474965042284,
+            "pre_se": 1.4464205060173054,
+            "pre_boot_p": NaN,
+            "post_mean": 0.3283512062640783,
+            "post_std": 2.2254767089987704,
+            "post_se": 1.2848795770156827,
+            "post_boot_p": NaN
+          }
+        }
+      }
+    }
+  },
+  "placebo_baselines": {
+    "XLE": {
+      "OFI_bvc": {
+        "pre_mean": 0.01114882019181924,
+        "post_mean": 0.01016758908295234
+      },
+      "vpin_z": {
+        "pre_mean": -0.02639484233106226,
+        "post_mean": 0.0542567275347028
+      }
+    },
+    "USO": {
+      "OFI_bvc": {
+        "pre_mean": 0.011437629887726173,
+        "post_mean": 0.013588838276431562
+      },
+      "vpin_z": {
+        "pre_mean": 0.056483427189287776,
+        "post_mean": 0.017210449562103065
+      }
+    }
+  }
+}

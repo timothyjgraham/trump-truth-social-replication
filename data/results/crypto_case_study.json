@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "method": "Descriptive \u00b160-bar (5-hour) BTC/ETH window around the one crypto-themed Trump post in the study window.",
+      "post_ts_utc": "2026-03-03 22:02:10.587000+00:00",
+      "by_asset": {
+        "BTC-USD": {
+          "n_bars": 121,
+          "ts_first": "2026-03-03 17:00:00+00:00",
+          "ts_last": "2026-03-04 03:00:00+00:00",
+          "close_at_event": 68304.99,
+          "ret_pre30m_sum": 0.0010575261158090724,
+          "ret_post30m_sum": -0.0003331204565812214,
+          "ret_pre1h_sum": -0.0036577685800232656,
+          "ret_post1h_sum": 0.0006198211381513835,
+          "vpin_z_pre30m_mean": -0.33274108240331546,
+          "vpin_z_post30m_mean": -0.2841821391096116,
+          "OFI_pre30m_mean": 0.051180224336006774,
+          "OFI_post30m_mean": -0.020772225376486778
+        },
+        "ETH-USD": {
+          "n_bars": 121,
+          "ts_first": "2026-03-03 17:00:00+00:00",
+          "ts_last": "2026-03-04 03:00:00+00:00",
+          "close_at_event": 1977.09,
+          "ret_pre30m_sum": 0.0026958992904077585,
+          "ret_post30m_sum": 0.0021422697043564608,
+          "ret_pre1h_sum": -0.005066893694011127,
+          "ret_post1h_sum": 0.004909303966084761,
+          "vpin_z_pre30m_mean": -0.5736650215200699,
+          "vpin_z_post30m_mean": -0.6423805331284765,
+          "OFI_pre30m_mean": 0.12779568223155038,
+          "OFI_post30m_mean": 0.09006099026960106
+        }
+      },
+      "text_snippet": "The Genius Act is being threatened and undermined by the Banks, and that is unacceptable \u2014 We are not going to allow it. The U.S. needs to get Market Structure done, ASAP. Americans should earn more money on their money."
+    }
+  ]
+}

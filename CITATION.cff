@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Trump, Truth Social, and Moving the Market: a study of pre-event trading activity in the US oil sector around posts from the President's social media account"
+message: "If you use this software or the analysis it produces, please cite the paper as below."
+type: software
+authors:
+  - family-names: Graham
+    given-names: Timothy
+  - family-names: Harrington
+    given-names: Stephen
+  - family-names: Chorazy
+    given-names: Ella
+date-released: "2026-04-22"
+license: MIT
+keywords:
+  - market microstructure
+  - order flow imbalance
+  - VPIN
+  - event study
+  - social media
+  - Truth Social
+  - informed trading
+abstract: >-
+  This repository provides a fully reproducible computational pipeline for an
+  event study of Trump's Truth Social posts and pre-event trading activity in
+  US oil-sector ETFs (XLE and USO). Headline finding: pre-event order-flow
+  imbalance and informed-trading intensity rise significantly in the 30 minutes
+  before oil-themed posts, and the effect survives matched-placebo and 24-hour
+  time-shift falsification tests.

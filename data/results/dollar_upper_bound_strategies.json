@@ -1,0 +1,43 @@
+{
+  "method": "Per-event upper bound P&L for the USO oil-finding.",
+  "pre_bars": 12,
+  "post_bars": 12,
+  "definition": "Per-event P&L = pre-event signed-volume imbalance (shares) \u00d7 (post-window-exit price \u2212 last pre-event bar close). Entry at close.iloc[pos-1]; exit at close.iloc[pos+POST_BARS-1].",
+  "interpretation": "Ceiling on what a perfectly-informed trader holding the entire pre-event imbalance could have netted \u2014 gross of transaction costs, spread, market impact, and borrow.",
+  "all_events": {
+    "n": 173,
+    "sum_pnl_usd": 180713997.67740765,
+    "mean_pnl_usd": 1044589.5819503332,
+    "median_pnl_usd": 0.0,
+    "hit_rate_pct": 30.63583815028902,
+    "p25_pnl_usd": 0.0,
+    "p75_pnl_usd": 493021.6171020514
+  },
+  "initiated_events": {
+    "n": 147,
+    "sum_pnl_usd": 87806189.24877873,
+    "mean_pnl_usd": 597321.0152978145,
+    "median_pnl_usd": 0.0,
+    "hit_rate_pct": 27.2108843537415,
+    "p25_pnl_usd": -0.0,
+    "p75_pnl_usd": 393774.48368000437
+  },
+  "initiated_and_pre_buying": {
+    "n": 21,
+    "sum_pnl_usd": -55177370.47865851,
+    "mean_pnl_usd": -2627493.832317072,
+    "median_pnl_usd": -61202.70460510254,
+    "hit_rate_pct": 19.047619047619047,
+    "p25_pnl_usd": -3558560.662689209,
+    "p75_pnl_usd": -46075.55712890625
+  },
+  "triggered_vpinz_gt_0_5": {
+    "n": 81,
+    "sum_pnl_usd": 159881804.58939478,
+    "mean_pnl_usd": 1973849.439375244,
+    "median_pnl_usd": 0.0,
+    "hit_rate_pct": 45.67901234567901,
+    "p25_pnl_usd": 0.0,
+    "p75_pnl_usd": 7658668.799999975
+  }
+}

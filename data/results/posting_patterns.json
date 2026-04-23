@@ -1,0 +1,115 @@
+{
+  "method": "Posting-pattern analysis on the full 32,433-post archive plus 60-day topic-tagged subset, with overlay of the 81 triggered oil events.",
+  "n_posts_full_archive": 32433,
+  "n_posts_60d_window": 1341,
+  "rate_test_weekend_vs_weekday": {
+    "weekday_days": 1026,
+    "weekend_days": 411,
+    "weekday_mean_posts_per_day": 23.366471734892787,
+    "weekday_median_posts_per_day": 19.0,
+    "weekend_mean_posts_per_day": 20.581508515815084,
+    "weekend_median_posts_per_day": 16.0,
+    "ratio_weekend_to_weekday": 0.8808137038969832,
+    "welch_t": -2.9456757311158954,
+    "welch_p_two_sided": 0.0032225003723576062
+  },
+  "topic_mix_60d": {
+    "weekend_post_count": 232,
+    "weekday_post_count": 1109,
+    "by_topic": {
+      "topic_tariff_trade": {
+        "weekend_share": 0.09482758620689655,
+        "weekday_share": 0.06582506762849413,
+        "weekend_n": 22,
+        "weekday_n": 73,
+        "diff_we_minus_wd_pct": 2.9002518578402414
+      },
+      "topic_fed_rates": {
+        "weekend_share": 0.008620689655172414,
+        "weekday_share": 0.013525698827772768,
+        "weekend_n": 2,
+        "weekday_n": 15,
+        "diff_we_minus_wd_pct": -0.4905009172600354
+      },
+      "topic_china": {
+        "weekend_share": 0.008620689655172414,
+        "weekday_share": 0.015329125338142471,
+        "weekend_n": 2,
+        "weekday_n": 17,
+        "diff_we_minus_wd_pct": -0.6708435682970058
+      },
+      "topic_iran_military": {
+        "weekend_share": 0.1724137931034483,
+        "weekday_share": 0.2200180342651037,
+        "weekend_n": 40,
+        "weekday_n": 244,
+        "diff_we_minus_wd_pct": -4.76042411616554
+      },
+      "topic_energy_oil": {
+        "weekend_share": 0.05603448275862069,
+        "weekday_share": 0.1442741208295762,
+        "weekend_n": 13,
+        "weekday_n": 160,
+        "diff_we_minus_wd_pct": -8.82396380709555
+      },
+      "topic_market_economy": {
+        "weekend_share": 0.07327586206896551,
+        "weekday_share": 0.1460775473399459,
+        "weekend_n": 17,
+        "weekday_n": 162,
+        "diff_we_minus_wd_pct": -7.28016852709804
+      },
+      "topic_crypto": {
+        "weekend_share": 0.0,
+        "weekday_share": 0.0009017132551848512,
+        "weekend_n": 0,
+        "weekday_n": 1,
+        "diff_we_minus_wd_pct": -0.09017132551848511
+      },
+      "topic_djt_media": {
+        "weekend_share": 0.09482758620689655,
+        "weekday_share": 0.062218214607754736,
+        "weekend_n": 22,
+        "weekday_n": 69,
+        "diff_we_minus_wd_pct": 3.260937159914181
+      }
+    }
+  },
+  "monday_morning_uso_response": {
+    "n_mondays_with_weekend_oil_post": 4,
+    "n_other_mondays": 7,
+    "uso_first_5min_return_bps_flagged_mean": -61.72119711230883,
+    "uso_first_5min_return_bps_other_mean": -8.40669012465188,
+    "welch_t": -0.9489184756682157,
+    "welch_p_two_sided": 0.34266207702202234
+  },
+  "triggered_overlay": {
+    "n_triggered": 81,
+    "by_hour_et": {
+      "16": 28,
+      "21": 19,
+      "13": 7,
+      "18": 7,
+      "15": 7,
+      "20": 6,
+      "10": 3,
+      "9": 1,
+      "11": 1,
+      "17": 1,
+      "12": 1
+    },
+    "by_weekday": {
+      "1": 44,
+      "0": 27,
+      "6": 7,
+      "2": 2,
+      "5": 1
+    },
+    "by_session": {
+      "after_hours": 61,
+      "regular": 11,
+      "weekend": 8,
+      "pre_market": 1
+    }
+  }
+}
