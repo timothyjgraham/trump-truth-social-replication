@@ -2,7 +2,7 @@
 
 A fully reproducible replication package for the report **_Trump, Truth Social,
 and Moving the Market: Evidence of pre-event order-flow imbalances on the U.S.
-oil complex (Feb–Apr 2026)._**
+oil complex (Jan-Apr 2026)._**
 
 Everything you need to rebuild the report end-to-end is in this repository:
 the raw data, the intermediate signals, the analysis scripts, the result
@@ -13,9 +13,11 @@ files, the LaTeX source, and the compiled PDF.
 ## TL;DR of the finding
 
 - We collected every public post by `@realDonaldTrump` on Truth Social over
-  a 60-day window (22 February → 22 April 2026) and matched each post to
-  5-minute order-flow signals on ten U.S. equities and ETFs (DJT, SPY, QQQ,
-  XLE, USO, GLD, UUP, VXX, XLF, XLK).
+  a 73-day overlap window (26 January 2026 to 21 April 2026, bounded by
+  the 60-day cap on Yahoo Finance's free 5-minute intraday feed at the
+  time of analysis) and matched each post to 5-minute order-flow signals
+  on ten U.S. equities and ETFs (DJT, SPY, QQQ, XLE, USO, GLD, UUP, VXX,
+  XLF, XLK).
 - For oil-themed posts (n = 165), pre-event order-flow imbalance on **XLE**
   (energy ETF) is roughly **4.4× the matched-placebo baseline** and survives
   a Benjamini–Hochberg false-discovery correction at q ≈ 7×10⁻¹¹.
@@ -71,7 +73,7 @@ trump-truth-social-replication/
 │   ├── raw/                 ← inputs you would re-collect from scratch
 │   │   ├── truth_archive.json   (32,433 posts, full Truth Social archive)
 │   │   ├── truth_archive.csv    (same posts, flattened)
-│   │   ├── posts_60d.parquet    (the 60-day window, topic-tagged)
+│   │   ├── posts_60d.parquet    (the 73-day overlap window, topic-tagged; the "60d" suffix refers to the yfinance feed cap that defines the window, not the window length itself)
 │   │   └── minute_bars_5m/      (one .parquet per ticker, from yfinance)
 │   ├── interim/
 │   │   └── signals_5m/      ← BVC, VPIN, Kyle's λ derived from raw bars
