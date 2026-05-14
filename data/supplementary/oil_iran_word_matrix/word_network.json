@@ -1,0 +1,2602 @@
+{
+  "universe": "posts containing explicit oil/Iran/Hormuz/crude/etc. terms",
+  "n_posts": 121,
+  "n_words": 30,
+  "min_edge_weight": 3,
+  "filtered_out": {
+    "self_references": [
+      "djt",
+      "donald",
+      "president",
+      "trump"
+    ],
+    "boilerplate": [
+      "about",
+      "again",
+      "against",
+      "back",
+      "completely",
+      "else",
+      "far",
+      "help",
+      "highly",
+      "immediately",
+      "iran's",
+      "left",
+      "now",
+      "only",
+      "well"
+    ],
+    "stopwords_total": 175
+  },
+  "nodes": [
+    {
+      "word": "iran",
+      "post_count": 91,
+      "rank": 1
+    },
+    {
+      "word": "military",
+      "post_count": 39,
+      "rank": 2
+    },
+    {
+      "word": "states",
+      "post_count": 38,
+      "rank": 3
+    },
+    {
+      "word": "united",
+      "post_count": 38,
+      "rank": 4
+    },
+    {
+      "word": "america",
+      "post_count": 34,
+      "rank": 5
+    },
+    {
+      "word": "world",
+      "post_count": 26,
+      "rank": 6
+    },
+    {
+      "word": "country",
+      "post_count": 25,
+      "rank": 7
+    },
+    {
+      "word": "oil",
+      "post_count": 23,
+      "rank": 8
+    },
+    {
+      "word": "strait",
+      "post_count": 23,
+      "rank": 9
+    },
+    {
+      "word": "hormuz",
+      "post_count": 22,
+      "rank": 10
+    },
+    {
+      "word": "middle",
+      "post_count": 20,
+      "rank": 11
+    },
+    {
+      "word": "east",
+      "post_count": 19,
+      "rank": 12
+    },
+    {
+      "word": "regime",
+      "post_count": 18,
+      "rank": 13
+    },
+    {
+      "word": "deal",
+      "post_count": 17,
+      "rank": 14
+    },
+    {
+      "word": "nuclear",
+      "post_count": 17,
+      "rank": 15
+    },
+    {
+      "word": "war",
+      "post_count": 15,
+      "rank": 16
+    },
+    {
+      "word": "american",
+      "post_count": 14,
+      "rank": 17
+    },
+    {
+      "word": "attack",
+      "post_count": 14,
+      "rank": 18
+    },
+    {
+      "word": "force",
+      "post_count": 12,
+      "rank": 19
+    },
+    {
+      "word": "history",
+      "post_count": 12,
+      "rank": 20
+    },
+    {
+      "word": "israel",
+      "post_count": 12,
+      "rank": 21
+    },
+    {
+      "word": "countries",
+      "post_count": 11,
+      "rank": 22
+    },
+    {
+      "word": "energy",
+      "post_count": 11,
+      "rank": 23
+    },
+    {
+      "word": "open",
+      "post_count": 11,
+      "rank": 24
+    },
+    {
+      "word": "place",
+      "post_count": 11,
+      "rank": 25
+    },
+    {
+      "word": "powerful",
+      "post_count": 11,
+      "rank": 26
+    },
+    {
+      "word": "times",
+      "post_count": 11,
+      "rank": 27
+    },
+    {
+      "word": "venezuela",
+      "post_count": 11,
+      "rank": 28
+    },
+    {
+      "word": "better",
+      "post_count": 10,
+      "rank": 29
+    },
+    {
+      "word": "complete",
+      "post_count": 10,
+      "rank": 30
+    }
+  ],
+  "edges": [
+    {
+      "source": "states",
+      "target": "united",
+      "weight": 37
+    },
+    {
+      "source": "iran",
+      "target": "military",
+      "weight": 31
+    },
+    {
+      "source": "iran",
+      "target": "states",
+      "weight": 30
+    },
+    {
+      "source": "iran",
+      "target": "united",
+      "weight": 30
+    },
+    {
+      "source": "america",
+      "target": "states",
+      "weight": 25
+    },
+    {
+      "source": "america",
+      "target": "united",
+      "weight": 25
+    },
+    {
+      "source": "america",
+      "target": "iran",
+      "weight": 24
+    },
+    {
+      "source": "hormuz",
+      "target": "strait",
+      "weight": 22
+    },
+    {
+      "source": "iran",
+      "target": "world",
+      "weight": 21
+    },
+    {
+      "source": "iran",
+      "target": "middle",
+      "weight": 20
+    },
+    {
+      "source": "america",
+      "target": "military",
+      "weight": 19
+    },
+    {
+      "source": "east",
+      "target": "iran",
+      "weight": 19
+    },
+    {
+      "source": "east",
+      "target": "middle",
+      "weight": 19
+    },
+    {
+      "source": "military",
+      "target": "states",
+      "weight": 19
+    },
+    {
+      "source": "military",
+      "target": "united",
+      "weight": 19
+    },
+    {
+      "source": "country",
+      "target": "iran",
+      "weight": 18
+    },
+    {
+      "source": "country",
+      "target": "military",
+      "weight": 18
+    },
+    {
+      "source": "iran",
+      "target": "strait",
+      "weight": 18
+    },
+    {
+      "source": "america",
+      "target": "country",
+      "weight": 17
+    },
+    {
+      "source": "hormuz",
+      "target": "iran",
+      "weight": 17
+    },
+    {
+      "source": "iran",
+      "target": "nuclear",
+      "weight": 16
+    },
+    {
+      "source": "iran",
+      "target": "regime",
+      "weight": 16
+    },
+    {
+      "source": "country",
+      "target": "states",
+      "weight": 15
+    },
+    {
+      "source": "country",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "hormuz",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "strait",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "deal",
+      "target": "iran",
+      "weight": 13
+    },
+    {
+      "source": "hormuz",
+      "target": "states",
+      "weight": 13
+    },
+    {
+      "source": "military",
+      "target": "world",
+      "weight": 13
+    },
+    {
+      "source": "oil",
+      "target": "united",
+      "weight": 13
+    },
+    {
+      "source": "states",
+      "target": "strait",
+      "weight": 13
+    },
+    {
+      "source": "america",
+      "target": "hormuz",
+      "weight": 12
+    },
+    {
+      "source": "america",
+      "target": "strait",
+      "weight": 12
+    },
+    {
+      "source": "attack",
+      "target": "iran",
+      "weight": 12
+    },
+    {
+      "source": "east",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "east",
+      "target": "united",
+      "weight": 12
+    },
+    {
+      "source": "hormuz",
+      "target": "military",
+      "weight": 12
+    },
+    {
+      "source": "middle",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "middle",
+      "target": "united",
+      "weight": 12
+    },
+    {
+      "source": "military",
+      "target": "strait",
+      "weight": 12
+    },
+    {
+      "source": "oil",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "states",
+      "target": "world",
+      "weight": 12
+    },
+    {
+      "source": "united",
+      "target": "world",
+      "weight": 12
+    },
+    {
+      "source": "america",
+      "target": "oil",
+      "weight": 11
+    },
+    {
+      "source": "force",
+      "target": "iran",
+      "weight": 11
+    },
+    {
+      "source": "iran",
+      "target": "oil",
+      "weight": 11
+    },
+    {
+      "source": "iran",
+      "target": "war",
+      "weight": 11
+    },
+    {
+      "source": "regime",
+      "target": "states",
+      "weight": 11
+    },
+    {
+      "source": "regime",
+      "target": "united",
+      "weight": 11
+    },
+    {
+      "source": "america",
+      "target": "american",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "east",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "middle",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "world",
+      "weight": 10
+    },
+    {
+      "source": "american",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "east",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "force",
+      "target": "states",
+      "weight": 10
+    },
+    {
+      "source": "force",
+      "target": "united",
+      "weight": 10
+    },
+    {
+      "source": "iran",
+      "target": "israel",
+      "weight": 10
+    },
+    {
+      "source": "middle",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "military",
+      "target": "nuclear",
+      "weight": 10
+    },
+    {
+      "source": "nuclear",
+      "target": "world",
+      "weight": 10
+    },
+    {
+      "source": "open",
+      "target": "strait",
+      "weight": 10
+    },
+    {
+      "source": "states",
+      "target": "war",
+      "weight": 10
+    },
+    {
+      "source": "united",
+      "target": "war",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "attack",
+      "weight": 9
+    },
+    {
+      "source": "america",
+      "target": "times",
+      "weight": 9
+    },
+    {
+      "source": "attack",
+      "target": "states",
+      "weight": 9
+    },
+    {
+      "source": "attack",
+      "target": "united",
+      "weight": 9
+    },
+    {
+      "source": "countries",
+      "target": "iran",
+      "weight": 9
+    },
+    {
+      "source": "country",
+      "target": "east",
+      "weight": 9
+    },
+    {
+      "source": "country",
+      "target": "middle",
+      "weight": 9
+    },
+    {
+      "source": "history",
+      "target": "iran",
+      "weight": 9
+    },
+    {
+      "source": "hormuz",
+      "target": "oil",
+      "weight": 9
+    },
+    {
+      "source": "hormuz",
+      "target": "open",
+      "weight": 9
+    },
+    {
+      "source": "iran",
+      "target": "powerful",
+      "weight": 9
+    },
+    {
+      "source": "military",
+      "target": "regime",
+      "weight": 9
+    },
+    {
+      "source": "nuclear",
+      "target": "states",
+      "weight": 9
+    },
+    {
+      "source": "nuclear",
+      "target": "united",
+      "weight": 9
+    },
+    {
+      "source": "oil",
+      "target": "strait",
+      "weight": 9
+    },
+    {
+      "source": "regime",
+      "target": "world",
+      "weight": 9
+    },
+    {
+      "source": "america",
+      "target": "energy",
+      "weight": 8
+    },
+    {
+      "source": "america",
+      "target": "regime",
+      "weight": 8
+    },
+    {
+      "source": "american",
+      "target": "country",
+      "weight": 8
+    },
+    {
+      "source": "american",
+      "target": "energy",
+      "weight": 8
+    },
+    {
+      "source": "attack",
+      "target": "country",
+      "weight": 8
+    },
+    {
+      "source": "attack",
+      "target": "military",
+      "weight": 8
+    },
+    {
+      "source": "country",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "deal",
+      "target": "states",
+      "weight": 8
+    },
+    {
+      "source": "deal",
+      "target": "united",
+      "weight": 8
+    },
+    {
+      "source": "east",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "iran",
+      "target": "open",
+      "weight": 8
+    },
+    {
+      "source": "middle",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "military",
+      "target": "oil",
+      "weight": 8
+    },
+    {
+      "source": "military",
+      "target": "powerful",
+      "weight": 8
+    },
+    {
+      "source": "military",
+      "target": "war",
+      "weight": 8
+    },
+    {
+      "source": "oil",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "powerful",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "america",
+      "target": "complete",
+      "weight": 7
+    },
+    {
+      "source": "america",
+      "target": "history",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "east",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "middle",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "better",
+      "target": "iran",
+      "weight": 7
+    },
+    {
+      "source": "complete",
+      "target": "energy",
+      "weight": 7
+    },
+    {
+      "source": "complete",
+      "target": "military",
+      "weight": 7
+    },
+    {
+      "source": "countries",
+      "target": "united",
+      "weight": 7
+    },
+    {
+      "source": "country",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "country",
+      "target": "powerful",
+      "weight": 7
+    },
+    {
+      "source": "country",
+      "target": "war",
+      "weight": 7
+    },
+    {
+      "source": "east",
+      "target": "israel",
+      "weight": 7
+    },
+    {
+      "source": "east",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "energy",
+      "target": "military",
+      "weight": 7
+    },
+    {
+      "source": "force",
+      "target": "military",
+      "weight": 7
+    },
+    {
+      "source": "force",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "force",
+      "target": "regime",
+      "weight": 7
+    },
+    {
+      "source": "history",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "hormuz",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "israel",
+      "target": "middle",
+      "weight": 7
+    },
+    {
+      "source": "middle",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "nuclear",
+      "target": "regime",
+      "weight": 7
+    },
+    {
+      "source": "powerful",
+      "target": "states",
+      "weight": 7
+    },
+    {
+      "source": "powerful",
+      "target": "united",
+      "weight": 7
+    },
+    {
+      "source": "states",
+      "target": "times",
+      "weight": 7
+    },
+    {
+      "source": "strait",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "times",
+      "target": "united",
+      "weight": 7
+    },
+    {
+      "source": "america",
+      "target": "force",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "place",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "war",
+      "weight": 6
+    },
+    {
+      "source": "american",
+      "target": "iran",
+      "weight": 6
+    },
+    {
+      "source": "american",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "attack",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "countries",
+      "target": "east",
+      "weight": 6
+    },
+    {
+      "source": "countries",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "countries",
+      "target": "states",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "energy",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "history",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "israel",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "venezuela",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "force",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "hormuz",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "energy",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "energy",
+      "target": "states",
+      "weight": 6
+    },
+    {
+      "source": "energy",
+      "target": "united",
+      "weight": 6
+    },
+    {
+      "source": "force",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "force",
+      "target": "world",
+      "weight": 6
+    },
+    {
+      "source": "history",
+      "target": "military",
+      "weight": 6
+    },
+    {
+      "source": "history",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "israel",
+      "target": "military",
+      "weight": 6
+    },
+    {
+      "source": "middle",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "middle",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "military",
+      "target": "place",
+      "weight": 6
+    },
+    {
+      "source": "nuclear",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "nuclear",
+      "target": "powerful",
+      "weight": 6
+    },
+    {
+      "source": "nuclear",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "powerful",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "regime",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "open",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "complete",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "history",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "place",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "times",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "united",
+      "weight": 5
+    },
+    {
+      "source": "attack",
+      "target": "force",
+      "weight": 5
+    },
+    {
+      "source": "attack",
+      "target": "powerful",
+      "weight": 5
+    },
+    {
+      "source": "attack",
+      "target": "world",
+      "weight": 5
+    },
+    {
+      "source": "complete",
+      "target": "country",
+      "weight": 5
+    },
+    {
+      "source": "complete",
+      "target": "iran",
+      "weight": 5
+    },
+    {
+      "source": "countries",
+      "target": "hormuz",
+      "weight": 5
+    },
+    {
+      "source": "countries",
+      "target": "military",
+      "weight": 5
+    },
+    {
+      "source": "countries",
+      "target": "strait",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "deal",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "force",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "place",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "times",
+      "weight": 5
+    },
+    {
+      "source": "deal",
+      "target": "military",
+      "weight": 5
+    },
+    {
+      "source": "energy",
+      "target": "place",
+      "weight": 5
+    },
+    {
+      "source": "energy",
+      "target": "times",
+      "weight": 5
+    },
+    {
+      "source": "force",
+      "target": "hormuz",
+      "weight": 5
+    },
+    {
+      "source": "force",
+      "target": "powerful",
+      "weight": 5
+    },
+    {
+      "source": "force",
+      "target": "strait",
+      "weight": 5
+    },
+    {
+      "source": "history",
+      "target": "regime",
+      "weight": 5
+    },
+    {
+      "source": "history",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "history",
+      "target": "united",
+      "weight": 5
+    },
+    {
+      "source": "iran",
+      "target": "place",
+      "weight": 5
+    },
+    {
+      "source": "iran",
+      "target": "times",
+      "weight": 5
+    },
+    {
+      "source": "america",
+      "target": "better",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "countries",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "deal",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "israel",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "powerful",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "venezuela",
+      "weight": 4
+    },
+    {
+      "source": "american",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "complete",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "hormuz",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "israel",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "strait",
+      "weight": 4
+    },
+    {
+      "source": "better",
+      "target": "military",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "east",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "middle",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "place",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "states",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "times",
+      "weight": 4
+    },
+    {
+      "source": "complete",
+      "target": "united",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "nuclear",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "powerful",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "war",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "east",
+      "target": "history",
+      "weight": 4
+    },
+    {
+      "source": "east",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "east",
+      "target": "powerful",
+      "weight": 4
+    },
+    {
+      "source": "history",
+      "target": "middle",
+      "weight": 4
+    },
+    {
+      "source": "history",
+      "target": "nuclear",
+      "weight": 4
+    },
+    {
+      "source": "israel",
+      "target": "place",
+      "weight": 4
+    },
+    {
+      "source": "israel",
+      "target": "states",
+      "weight": 4
+    },
+    {
+      "source": "israel",
+      "target": "united",
+      "weight": 4
+    },
+    {
+      "source": "middle",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "middle",
+      "target": "powerful",
+      "weight": 4
+    },
+    {
+      "source": "military",
+      "target": "open",
+      "weight": 4
+    },
+    {
+      "source": "military",
+      "target": "times",
+      "weight": 4
+    },
+    {
+      "source": "oil",
+      "target": "powerful",
+      "weight": 4
+    },
+    {
+      "source": "oil",
+      "target": "regime",
+      "weight": 4
+    },
+    {
+      "source": "oil",
+      "target": "times",
+      "weight": 4
+    },
+    {
+      "source": "oil",
+      "target": "venezuela",
+      "weight": 4
+    },
+    {
+      "source": "open",
+      "target": "states",
+      "weight": 4
+    },
+    {
+      "source": "open",
+      "target": "united",
+      "weight": 4
+    },
+    {
+      "source": "place",
+      "target": "states",
+      "weight": 4
+    },
+    {
+      "source": "place",
+      "target": "times",
+      "weight": 4
+    },
+    {
+      "source": "place",
+      "target": "united",
+      "weight": 4
+    },
+    {
+      "source": "states",
+      "target": "venezuela",
+      "weight": 4
+    },
+    {
+      "source": "american",
+      "target": "attack",
+      "weight": 3
+    },
+    {
+      "source": "american",
+      "target": "better",
+      "weight": 3
+    },
+    {
+      "source": "american",
+      "target": "deal",
+      "weight": 3
+    },
+    {
+      "source": "american",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "countries",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "deal",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "history",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "place",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "better",
+      "target": "place",
+      "weight": 3
+    },
+    {
+      "source": "better",
+      "target": "states",
+      "weight": 3
+    },
+    {
+      "source": "better",
+      "target": "united",
+      "weight": 3
+    },
+    {
+      "source": "complete",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "countries",
+      "target": "force",
+      "weight": 3
+    },
+    {
+      "source": "countries",
+      "target": "israel",
+      "weight": 3
+    },
+    {
+      "source": "countries",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "countries",
+      "target": "regime",
+      "weight": 3
+    },
+    {
+      "source": "countries",
+      "target": "world",
+      "weight": 3
+    },
+    {
+      "source": "country",
+      "target": "hormuz",
+      "weight": 3
+    },
+    {
+      "source": "country",
+      "target": "strait",
+      "weight": 3
+    },
+    {
+      "source": "deal",
+      "target": "energy",
+      "weight": 3
+    },
+    {
+      "source": "deal",
+      "target": "open",
+      "weight": 3
+    },
+    {
+      "source": "deal",
+      "target": "times",
+      "weight": 3
+    },
+    {
+      "source": "deal",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "energy",
+      "target": "history",
+      "weight": 3
+    },
+    {
+      "source": "energy",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "energy",
+      "target": "war",
+      "weight": 3
+    },
+    {
+      "source": "force",
+      "target": "history",
+      "weight": 3
+    },
+    {
+      "source": "force",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "force",
+      "target": "times",
+      "weight": 3
+    },
+    {
+      "source": "history",
+      "target": "hormuz",
+      "weight": 3
+    },
+    {
+      "source": "history",
+      "target": "powerful",
+      "weight": 3
+    },
+    {
+      "source": "history",
+      "target": "strait",
+      "weight": 3
+    },
+    {
+      "source": "hormuz",
+      "target": "powerful",
+      "weight": 3
+    },
+    {
+      "source": "israel",
+      "target": "times",
+      "weight": 3
+    },
+    {
+      "source": "military",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "nuclear",
+      "target": "place",
+      "weight": 3
+    },
+    {
+      "source": "oil",
+      "target": "open",
+      "weight": 3
+    },
+    {
+      "source": "oil",
+      "target": "place",
+      "weight": 3
+    },
+    {
+      "source": "place",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "powerful",
+      "target": "strait",
+      "weight": 3
+    },
+    {
+      "source": "powerful",
+      "target": "war",
+      "weight": 3
+    },
+    {
+      "source": "united",
+      "target": "venezuela",
+      "weight": 3
+    },
+    {
+      "source": "war",
+      "target": "world",
+      "weight": 3
+    }
+  ],
+  "matrix": {
+    "row_order": [
+      "iran",
+      "military",
+      "states",
+      "united",
+      "america",
+      "world",
+      "country",
+      "oil",
+      "strait",
+      "hormuz",
+      "middle",
+      "east",
+      "regime",
+      "deal",
+      "nuclear",
+      "war",
+      "american",
+      "attack",
+      "force",
+      "history",
+      "israel",
+      "countries",
+      "energy",
+      "open",
+      "place",
+      "powerful",
+      "times",
+      "venezuela",
+      "better",
+      "complete"
+    ],
+    "values": [
+      [
+        91,
+        31,
+        30,
+        30,
+        24,
+        21,
+        18,
+        11,
+        18,
+        17,
+        20,
+        19,
+        16,
+        13,
+        16,
+        11,
+        6,
+        12,
+        11,
+        9,
+        10,
+        9,
+        0,
+        8,
+        5,
+        9,
+        5,
+        0,
+        7,
+        5
+      ],
+      [
+        31,
+        39,
+        19,
+        19,
+        19,
+        13,
+        18,
+        8,
+        12,
+        12,
+        10,
+        10,
+        9,
+        5,
+        10,
+        8,
+        10,
+        8,
+        7,
+        6,
+        6,
+        5,
+        7,
+        4,
+        6,
+        8,
+        4,
+        3,
+        4,
+        7
+      ],
+      [
+        30,
+        19,
+        38,
+        37,
+        25,
+        12,
+        15,
+        12,
+        13,
+        13,
+        12,
+        12,
+        11,
+        8,
+        9,
+        10,
+        5,
+        9,
+        10,
+        5,
+        4,
+        6,
+        6,
+        4,
+        4,
+        7,
+        7,
+        4,
+        3,
+        4
+      ],
+      [
+        30,
+        19,
+        37,
+        38,
+        25,
+        12,
+        14,
+        13,
+        14,
+        14,
+        12,
+        12,
+        11,
+        8,
+        9,
+        10,
+        5,
+        9,
+        10,
+        5,
+        4,
+        7,
+        6,
+        4,
+        4,
+        7,
+        7,
+        3,
+        3,
+        4
+      ],
+      [
+        24,
+        19,
+        25,
+        25,
+        34,
+        10,
+        17,
+        11,
+        12,
+        12,
+        10,
+        10,
+        8,
+        4,
+        6,
+        6,
+        10,
+        9,
+        6,
+        7,
+        4,
+        4,
+        8,
+        5,
+        6,
+        4,
+        9,
+        4,
+        4,
+        7
+      ],
+      [
+        21,
+        13,
+        12,
+        12,
+        10,
+        26,
+        8,
+        8,
+        7,
+        7,
+        8,
+        8,
+        9,
+        4,
+        10,
+        3,
+        4,
+        5,
+        6,
+        7,
+        0,
+        3,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        18,
+        18,
+        15,
+        14,
+        17,
+        8,
+        25,
+        6,
+        3,
+        3,
+        9,
+        9,
+        6,
+        5,
+        7,
+        7,
+        8,
+        8,
+        5,
+        6,
+        6,
+        0,
+        6,
+        0,
+        5,
+        7,
+        5,
+        6,
+        0,
+        5
+      ],
+      [
+        11,
+        8,
+        12,
+        13,
+        11,
+        8,
+        6,
+        23,
+        9,
+        9,
+        4,
+        4,
+        4,
+        4,
+        6,
+        0,
+        6,
+        3,
+        3,
+        6,
+        0,
+        3,
+        6,
+        3,
+        3,
+        4,
+        4,
+        4,
+        0,
+        3
+      ],
+      [
+        18,
+        12,
+        13,
+        14,
+        12,
+        7,
+        3,
+        9,
+        23,
+        22,
+        6,
+        6,
+        6,
+        0,
+        6,
+        0,
+        0,
+        4,
+        5,
+        3,
+        0,
+        5,
+        0,
+        10,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        17,
+        12,
+        13,
+        14,
+        12,
+        7,
+        3,
+        9,
+        22,
+        22,
+        6,
+        6,
+        6,
+        0,
+        6,
+        0,
+        0,
+        4,
+        5,
+        3,
+        0,
+        5,
+        0,
+        9,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        20,
+        10,
+        12,
+        12,
+        10,
+        8,
+        9,
+        4,
+        6,
+        6,
+        20,
+        19,
+        6,
+        0,
+        7,
+        0,
+        0,
+        7,
+        6,
+        4,
+        7,
+        6,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        19,
+        10,
+        12,
+        12,
+        10,
+        8,
+        9,
+        4,
+        6,
+        6,
+        19,
+        19,
+        6,
+        0,
+        7,
+        0,
+        0,
+        7,
+        6,
+        4,
+        7,
+        6,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        16,
+        9,
+        11,
+        11,
+        8,
+        9,
+        6,
+        4,
+        6,
+        6,
+        6,
+        6,
+        18,
+        0,
+        7,
+        0,
+        0,
+        6,
+        7,
+        5,
+        0,
+        3,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        13,
+        5,
+        8,
+        8,
+        4,
+        4,
+        5,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        4,
+        4,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        4,
+        3,
+        3,
+        0,
+        0
+      ],
+      [
+        16,
+        10,
+        9,
+        9,
+        6,
+        10,
+        7,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        4,
+        17,
+        0,
+        0,
+        7,
+        7,
+        4,
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        11,
+        8,
+        10,
+        10,
+        6,
+        3,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        15,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        10,
+        5,
+        5,
+        10,
+        4,
+        8,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        14,
+        3,
+        0,
+        5,
+        0,
+        0,
+        8,
+        0,
+        5,
+        0,
+        5,
+        3,
+        3,
+        5
+      ],
+      [
+        12,
+        8,
+        9,
+        9,
+        9,
+        5,
+        8,
+        3,
+        4,
+        4,
+        7,
+        7,
+        6,
+        3,
+        7,
+        0,
+        3,
+        14,
+        5,
+        3,
+        4,
+        3,
+        0,
+        0,
+        3,
+        5,
+        0,
+        3,
+        0,
+        4
+      ],
+      [
+        11,
+        7,
+        10,
+        10,
+        6,
+        6,
+        5,
+        3,
+        5,
+        5,
+        6,
+        6,
+        7,
+        0,
+        7,
+        0,
+        0,
+        5,
+        12,
+        3,
+        0,
+        3,
+        0,
+        0,
+        0,
+        5,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        6,
+        5,
+        5,
+        7,
+        7,
+        6,
+        6,
+        3,
+        3,
+        4,
+        4,
+        5,
+        0,
+        4,
+        0,
+        5,
+        3,
+        3,
+        12,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        10,
+        6,
+        4,
+        4,
+        4,
+        0,
+        6,
+        0,
+        0,
+        0,
+        7,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        12,
+        3,
+        0,
+        0,
+        4,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        5,
+        6,
+        7,
+        4,
+        3,
+        0,
+        3,
+        5,
+        5,
+        6,
+        6,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        3,
+        11,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        6,
+        6,
+        8,
+        0,
+        6,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        3,
+        8,
+        0,
+        0,
+        3,
+        0,
+        0,
+        11,
+        0,
+        5,
+        0,
+        5,
+        3,
+        0,
+        7
+      ],
+      [
+        8,
+        4,
+        4,
+        4,
+        5,
+        0,
+        0,
+        3,
+        10,
+        9,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        6,
+        4,
+        4,
+        6,
+        0,
+        5,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        5,
+        3,
+        0,
+        0,
+        4,
+        0,
+        5,
+        0,
+        11,
+        0,
+        4,
+        3,
+        3,
+        4
+      ],
+      [
+        9,
+        8,
+        7,
+        7,
+        4,
+        8,
+        7,
+        4,
+        3,
+        3,
+        4,
+        4,
+        6,
+        4,
+        6,
+        3,
+        0,
+        5,
+        5,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        4,
+        7,
+        7,
+        9,
+        0,
+        5,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        5,
+        0,
+        3,
+        0,
+        3,
+        0,
+        5,
+        0,
+        4,
+        0,
+        11,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        3,
+        4,
+        3,
+        4,
+        0,
+        6,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        3,
+        0,
+        0,
+        11,
+        0,
+        0
+      ],
+      [
+        7,
+        4,
+        3,
+        3,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        5,
+        7,
+        4,
+        4,
+        7,
+        0,
+        5,
+        3,
+        0,
+        0,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        5,
+        4,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        4,
+        0,
+        4,
+        0,
+        0,
+        10
+      ]
+    ]
+  }
+}

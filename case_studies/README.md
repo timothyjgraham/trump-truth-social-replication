@@ -1,7 +1,7 @@
 # Case studies
 
 Single-event drill-downs that supplement the main report. Each subfolder
-is a self-contained bundle with its own README, build/render/verify
+is a self-contained bundle with its own README, build / render / verify
 pipeline, and source CSVs.
 
 ## Available case studies
@@ -13,6 +13,11 @@ pipeline, and source CSVs.
   the same hours stay within roughly +/- 2.5% on the next trading day.
   This is the marquee single event referenced in the Conversation
   article and the press coverage.
+
+- **`three_events/`** -- the three single events (March 4, March 18,
+  March 23) on USO that anchor the article's exemplar chart. Each
+  event is shown on its own 5-min bar series with the corresponding
+  Trump post timestamp marked.
 
 ## Reproducing
 

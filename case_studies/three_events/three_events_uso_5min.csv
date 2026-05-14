@@ -1,0 +1,217 @@
+event_id,event_label,ts_utc,ts_et,minute_offset,open,high,low,close,volume,is_zero_vol,is_rth_bar,anchor_price,cum_pct_signed,cum_pct_abs
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:05:00Z,2026-03-04 12:05 ET,-180,90.24,90.74,90.22,90.57,372625,False,True,90.75,-0.1983,0.1983
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:10:00Z,2026-03-04 12:10 ET,-175,90.58,90.69,90.49,90.61,148757,False,True,90.75,-0.1543,0.1543
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:15:00Z,2026-03-04 12:15 ET,-170,90.61,90.84,90.59,90.79,255018,False,True,90.75,0.0386,0.0386
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:20:00Z,2026-03-04 12:20 ET,-165,90.79,91.14,90.77,91.11,366491,False,True,90.75,0.3967,0.3967
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:25:00Z,2026-03-04 12:25 ET,-160,91.11,91.45,90.79,91.1,613571,False,True,90.75,0.3857,0.3857
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:30:00Z,2026-03-04 12:30 ET,-155,91.12,91.28,91.06,91.16,386608,False,True,90.75,0.4518,0.4518
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:35:00Z,2026-03-04 12:35 ET,-150,91.16,91.4,91.15,91.25,278914,False,True,90.75,0.5565,0.5565
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:40:00Z,2026-03-04 12:40 ET,-145,91.25,91.33,91.06,91.21,230521,False,True,90.75,0.5069,0.5069
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:45:00Z,2026-03-04 12:45 ET,-140,91.19,91.22,90.75,91.13,446684,False,True,90.75,0.4187,0.4187
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:50:00Z,2026-03-04 12:50 ET,-135,91.13,91.29,91.05,91.28,224537,False,True,90.75,0.584,0.584
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T17:55:00Z,2026-03-04 12:55 ET,-130,91.28,91.36,91.18,91.33,220866,False,True,90.75,0.6391,0.6391
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:00:00Z,2026-03-04 13:00 ET,-125,91.34,91.37,90.92,91.25,309803,False,True,90.75,0.551,0.551
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:05:00Z,2026-03-04 13:05 ET,-120,91.26,91.28,90.92,91.05,399215,False,True,90.75,0.3306,0.3306
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:10:00Z,2026-03-04 13:10 ET,-115,91.03,91.22,91.0,91.18,169293,False,True,90.75,0.4738,0.4738
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:15:00Z,2026-03-04 13:15 ET,-110,91.17,91.29,91.04,91.05,163306,False,True,90.75,0.3306,0.3306
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:20:00Z,2026-03-04 13:20 ET,-105,91.05,91.17,90.89,90.97,238146,False,True,90.75,0.2424,0.2424
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:25:00Z,2026-03-04 13:25 ET,-100,90.97,91.17,90.87,91.03,276819,False,True,90.75,0.3085,0.3085
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:30:00Z,2026-03-04 13:30 ET,-95,91.03,91.25,90.85,91.15,227332,False,True,90.75,0.4408,0.4408
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:35:00Z,2026-03-04 13:35 ET,-90,91.16,91.17,90.98,91.09,175077,False,True,90.75,0.3747,0.3747
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:40:00Z,2026-03-04 13:40 ET,-85,91.1,91.24,91.04,91.19,166982,False,True,90.75,0.4849,0.4849
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:45:00Z,2026-03-04 13:45 ET,-80,91.2,91.44,91.2,91.27,212170,False,True,90.75,0.573,0.573
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:50:00Z,2026-03-04 13:50 ET,-75,91.27,91.31,90.88,90.96,246916,False,True,90.75,0.2314,0.2314
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T18:55:00Z,2026-03-04 13:55 ET,-70,90.94,91.1,90.88,91.07,116535,False,True,90.75,0.3471,0.3471
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:00:00Z,2026-03-04 14:00 ET,-65,91.07,91.07,90.49,90.59,260224,False,True,90.75,-0.1763,0.1763
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:05:00Z,2026-03-04 14:05 ET,-60,90.59,90.64,90.46,90.5,137688,False,True,90.75,-0.27,0.27
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:10:00Z,2026-03-04 14:10 ET,-55,90.51,90.84,90.47,90.71,227039,False,True,90.75,-0.0441,0.0441
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:15:00Z,2026-03-04 14:15 ET,-50,90.71,90.9,90.66,90.76,195814,False,True,90.75,0.011,0.011
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:20:00Z,2026-03-04 14:20 ET,-45,90.76,90.86,90.65,90.78,167693,False,True,90.75,0.0331,0.0331
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:25:00Z,2026-03-04 14:25 ET,-40,90.79,90.93,90.65,90.83,271529,False,True,90.75,0.0882,0.0882
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:30:00Z,2026-03-04 14:30 ET,-35,90.82,90.89,90.46,90.62,182325,False,True,90.75,-0.1432,0.1432
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:35:00Z,2026-03-04 14:35 ET,-30,90.63,90.67,90.51,90.54,95646,False,True,90.75,-0.2314,0.2314
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:40:00Z,2026-03-04 14:40 ET,-25,90.55,90.69,90.51,90.64,86751,False,True,90.75,-0.1212,0.1212
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:45:00Z,2026-03-04 14:45 ET,-20,90.66,90.79,90.63,90.65,84090,False,True,90.75,-0.1047,0.1047
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:50:00Z,2026-03-04 14:50 ET,-15,90.65,90.72,90.64,90.69,95491,False,True,90.75,-0.0606,0.0606
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T19:55:00Z,2026-03-04 14:55 ET,-10,90.69,90.74,90.58,90.62,139854,False,True,90.75,-0.1432,0.1432
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:00:00Z,2026-03-04 15:00 ET,-5,90.62,90.75,90.6,90.73,120124,False,True,90.75,-0.022,0.022
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:05:00Z,2026-03-04 15:05 ET,0,90.72,90.9,90.67,90.75,126836,False,True,90.75,0.0,0.0
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:10:00Z,2026-03-04 15:10 ET,5,90.75,90.83,90.74,90.77,66926,False,True,90.75,0.022,0.022
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:15:00Z,2026-03-04 15:15 ET,10,90.78,91.1,90.77,91.09,243145,False,True,90.75,0.3747,0.3747
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:20:00Z,2026-03-04 15:20 ET,15,91.09,91.32,91.03,91.28,236140,False,True,90.75,0.584,0.584
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:25:00Z,2026-03-04 15:25 ET,20,91.29,91.47,91.21,91.44,409452,False,True,90.75,0.7603,0.7603
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:30:00Z,2026-03-04 15:30 ET,25,91.45,91.59,91.38,91.47,377988,False,True,90.75,0.7934,0.7934
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:35:00Z,2026-03-04 15:35 ET,30,91.48,91.58,91.35,91.43,287656,False,True,90.75,0.7493,0.7493
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:40:00Z,2026-03-04 15:40 ET,35,91.42,91.49,91.27,91.47,299754,False,True,90.75,0.7989,0.7989
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:45:00Z,2026-03-04 15:45 ET,40,91.47,91.59,91.39,91.58,213263,False,True,90.75,0.9146,0.9146
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:50:00Z,2026-03-04 15:50 ET,45,91.57,91.57,91.36,91.42,331991,False,True,90.75,0.7383,0.7383
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T20:55:00Z,2026-03-04 15:55 ET,50,91.42,91.57,91.38,91.54,470232,False,True,90.75,0.8705,0.8705
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:00:00Z,2026-03-04 16:00 ET,55,91.56,91.63,91.44,91.62,0,True,False,90.75,0.9587,0.9587
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:05:00Z,2026-03-04 16:05 ET,60,91.64,91.88,91.51,91.84,0,True,False,90.75,1.2011,1.2011
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:10:00Z,2026-03-04 16:10 ET,65,91.56,92.0,91.56,91.87,0,True,False,90.75,1.2333,1.2333
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:15:00Z,2026-03-04 16:15 ET,70,91.89,92.09,91.85,92.07,0,True,False,90.75,1.4553,1.4553
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:20:00Z,2026-03-04 16:20 ET,75,92.09,92.58,92.09,92.43,0,True,False,90.75,1.8504,1.8504
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:25:00Z,2026-03-04 16:25 ET,80,92.39,92.47,92.19,92.28,0,True,False,90.75,1.6854,1.6854
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:30:00Z,2026-03-04 16:30 ET,85,92.26,92.35,92.13,92.19,0,True,False,90.75,1.5913,1.5913
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:35:00Z,2026-03-04 16:35 ET,90,92.22,92.25,92.0,92.2,0,True,False,90.75,1.5991,1.5991
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:40:00Z,2026-03-04 16:40 ET,95,92.21,92.3,92.12,92.26,0,True,False,90.75,1.665,1.665
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:45:00Z,2026-03-04 16:45 ET,100,92.3,92.3,92.17,92.29,0,True,False,90.75,1.697,1.697
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:50:00Z,2026-03-04 16:50 ET,105,92.29,92.42,92.27,92.36,0,True,False,90.75,1.7772,1.7772
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T21:55:00Z,2026-03-04 16:55 ET,110,92.37,92.37,92.28,92.3,0,True,False,90.75,1.708,1.708
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:00:00Z,2026-03-04 17:00 ET,115,92.28,92.42,91.95,92.08,0,True,False,90.75,1.4671,1.4671
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:05:00Z,2026-03-04 17:05 ET,120,92.2,92.2,92.07,92.19,0,True,False,90.75,1.5838,1.5838
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:10:00Z,2026-03-04 17:10 ET,125,92.0,92.19,92.0,92.05,0,True,False,90.75,1.4325,1.4325
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:15:00Z,2026-03-04 17:15 ET,130,92.05,92.15,91.99,92.0,0,True,False,90.75,1.3774,1.3774
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:20:00Z,2026-03-04 17:20 ET,135,92.0,92.19,91.95,92.16,0,True,False,90.75,1.5567,1.5567
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:25:00Z,2026-03-04 17:25 ET,140,92.09,92.19,91.92,92.19,0,True,False,90.75,1.5868,1.5868
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:30:00Z,2026-03-04 17:30 ET,145,91.92,92.35,91.92,92.35,0,True,False,90.75,1.7631,1.7631
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:35:00Z,2026-03-04 17:35 ET,150,92.21,92.35,92.21,92.34,0,True,False,90.75,1.7501,1.7501
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:40:00Z,2026-03-04 17:40 ET,155,92.32,92.42,92.32,92.39,0,True,False,90.75,1.8072,1.8072
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:45:00Z,2026-03-04 17:45 ET,160,92.4,92.42,92.32,92.39,0,True,False,90.75,1.8074,1.8074
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:50:00Z,2026-03-04 17:50 ET,165,92.39,92.42,92.33,92.37,0,True,False,90.75,1.7851,1.7851
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T22:55:00Z,2026-03-04 17:55 ET,170,92.33,92.49,92.33,92.49,0,True,False,90.75,1.9124,1.9124
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T23:00:00Z,2026-03-04 18:00 ET,175,92.44,92.44,92.0,92.22,0,True,False,90.75,1.6199,1.6199
+mar4_venezuela_oil,"Mar 4: Venezuela oil (""normal signal"")",2026-03-04T23:05:00Z,2026-03-04 18:05 ET,180,92.22,92.27,92.01,92.05,0,True,False,90.75,1.427,1.427
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:20:00Z,2026-03-23 04:20 ET,-180,124.91,125.0,124.75,124.96,0,True,False,112.89,10.6918,10.6918
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:25:00Z,2026-03-23 04:25 ET,-175,124.96,125.15,124.66,125.1,0,True,False,112.89,10.8158,10.8158
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:30:00Z,2026-03-23 04:30 ET,-170,124.86,124.92,124.19,124.23,0,True,False,112.89,10.0452,10.0452
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:35:00Z,2026-03-23 04:35 ET,-165,124.2,124.63,124.1,124.18,0,True,False,112.89,10.0009,10.0009
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:40:00Z,2026-03-23 04:40 ET,-160,124.2,124.34,123.9,124.24,0,True,False,112.89,10.054,10.054
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:45:00Z,2026-03-23 04:45 ET,-155,124.23,124.71,124.11,124.14,0,True,False,112.89,9.9655,9.9655
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:50:00Z,2026-03-23 04:50 ET,-150,124.32,124.35,123.79,124.04,0,True,False,112.89,9.8769,9.8769
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T08:55:00Z,2026-03-23 04:55 ET,-145,124.1,124.33,123.78,123.78,0,True,False,112.89,9.6466,9.6466
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:00:00Z,2026-03-23 05:00 ET,-140,123.76,123.85,123.55,123.6,0,True,False,112.89,9.4871,9.4871
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:05:00Z,2026-03-23 05:05 ET,-135,123.63,123.65,123.25,123.25,0,True,False,112.89,9.1771,9.1771
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:10:00Z,2026-03-23 05:10 ET,-130,123.25,123.25,122.45,122.58,0,True,False,112.89,8.5836,8.5836
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:15:00Z,2026-03-23 05:15 ET,-125,122.56,122.7,122.32,122.32,0,True,False,112.89,8.3533,8.3533
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:20:00Z,2026-03-23 05:20 ET,-120,122.34,122.9,122.24,122.9,0,True,False,112.89,8.867,8.867
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:25:00Z,2026-03-23 05:25 ET,-115,122.89,123.31,122.88,123.21,0,True,False,112.89,9.1416,9.1416
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:30:00Z,2026-03-23 05:30 ET,-110,123.34,123.62,123.1,123.5,0,True,False,112.89,9.3985,9.3985
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:35:00Z,2026-03-23 05:35 ET,-105,123.54,123.8,123.54,123.71,0,True,False,112.89,9.5846,9.5846
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:40:00Z,2026-03-23 05:40 ET,-100,123.71,123.79,123.45,123.57,0,True,False,112.89,9.4605,9.4605
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:45:00Z,2026-03-23 05:45 ET,-95,123.56,123.6,123.2,123.47,0,True,False,112.89,9.372,9.372
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:50:00Z,2026-03-23 05:50 ET,-90,123.46,123.51,123.2,123.34,0,True,False,112.89,9.2568,9.2568
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T09:55:00Z,2026-03-23 05:55 ET,-85,123.42,123.52,123.17,123.2,0,True,False,112.89,9.1328,9.1328
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:00:00Z,2026-03-23 06:00 ET,-80,123.13,123.54,123.07,123.45,0,True,False,112.89,9.3542,9.3542
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:05:00Z,2026-03-23 06:05 ET,-75,123.51,123.86,123.43,123.51,0,True,False,112.89,9.4074,9.4074
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:10:00Z,2026-03-23 06:10 ET,-70,123.48,123.55,123.26,123.34,0,True,False,112.89,9.2568,9.2568
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:15:00Z,2026-03-23 06:15 ET,-65,123.3,123.56,123.25,123.26,0,True,False,112.89,9.1859,9.1859
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:20:00Z,2026-03-23 06:20 ET,-60,123.4,123.69,123.4,123.58,0,True,False,112.89,9.4694,9.4694
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:25:00Z,2026-03-23 06:25 ET,-55,123.58,123.81,123.51,123.55,0,True,False,112.89,9.4428,9.4428
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:30:00Z,2026-03-23 06:30 ET,-50,123.56,123.56,122.89,122.93,0,True,False,112.89,8.8936,8.8936
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:35:00Z,2026-03-23 06:35 ET,-45,122.91,123.18,122.8,123.18,0,True,False,112.89,9.1151,9.1151
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:40:00Z,2026-03-23 06:40 ET,-40,123.15,123.19,122.67,122.76,0,True,False,112.89,8.743,8.743
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:45:00Z,2026-03-23 06:45 ET,-35,122.73,122.92,122.18,122.26,0,True,False,112.89,8.3001,8.3001
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:50:00Z,2026-03-23 06:50 ET,-30,122.36,122.74,121.45,122.61,0,True,False,112.89,8.6102,8.6102
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T10:55:00Z,2026-03-23 06:55 ET,-25,122.59,122.95,122.59,122.77,0,True,False,112.89,8.7519,8.7519
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:00:00Z,2026-03-23 07:00 ET,-20,122.8,123.03,122.63,122.84,0,True,False,112.89,8.8139,8.8139
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:05:00Z,2026-03-23 07:05 ET,-15,122.82,122.86,109.0,113.05,0,True,False,112.89,0.1417,0.1417
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:10:00Z,2026-03-23 07:10 ET,-10,112.99,114.63,109.0,109.97,0,True,False,112.89,-2.5866,2.5866
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:15:00Z,2026-03-23 07:15 ET,-5,109.97,111.91,109.68,111.38,0,True,False,112.89,-1.3376,1.3376
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:20:00Z,2026-03-23 07:20 ET,0,111.4,113.51,110.84,112.89,0,True,False,112.89,0.0,0.0
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:25:00Z,2026-03-23 07:25 ET,5,112.92,113.43,111.59,112.9,0,True,False,112.89,0.0089,0.0089
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:30:00Z,2026-03-23 07:30 ET,10,113.0,113.0,111.51,112.2,0,True,False,112.89,-0.6112,0.6112
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:35:00Z,2026-03-23 07:35 ET,15,112.37,113.48,111.91,113.13,0,True,False,112.89,0.2126,0.2126
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:40:00Z,2026-03-23 07:40 ET,20,113.08,113.98,112.78,113.65,0,True,False,112.89,0.6732,0.6732
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:45:00Z,2026-03-23 07:45 ET,25,113.58,114.7,113.56,113.71,0,True,False,112.89,0.7264,0.7264
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:50:00Z,2026-03-23 07:50 ET,30,113.8,114.94,113.72,114.19,0,True,False,112.89,1.1516,1.1516
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T11:55:00Z,2026-03-23 07:55 ET,35,114.2,115.78,114.18,115.26,0,True,False,112.89,2.0994,2.0994
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:00:00Z,2026-03-23 08:00 ET,40,115.26,126.64,109.0,115.64,0,True,False,112.89,2.4375,2.4375
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:05:00Z,2026-03-23 08:05 ET,45,115.66,126.5,115.15,115.36,0,True,False,112.89,2.188,2.188
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:10:00Z,2026-03-23 08:10 ET,50,115.33,115.59,114.59,115.14,0,True,False,112.89,1.9975,1.9975
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:15:00Z,2026-03-23 08:15 ET,55,115.19,115.2,113.98,114.11,0,True,False,112.89,1.0807,1.0807
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:20:00Z,2026-03-23 08:20 ET,60,114.12,114.5,113.57,113.99,0,True,False,112.89,0.9744,0.9744
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:25:00Z,2026-03-23 08:25 ET,65,113.91,114.4,113.37,114.15,0,True,False,112.89,1.1205,1.1205
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:30:00Z,2026-03-23 08:30 ET,70,114.17,114.18,113.45,113.82,0,True,False,112.89,0.824,0.824
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:35:00Z,2026-03-23 08:35 ET,75,113.83,114.27,112.88,113.62,0,True,False,112.89,0.6459,0.6459
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:40:00Z,2026-03-23 08:40 ET,80,113.59,113.96,111.15,111.63,0,True,False,112.89,-1.1124,1.1124
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:45:00Z,2026-03-23 08:45 ET,85,111.64,112.04,110.38,110.52,0,True,False,112.89,-2.0994,2.0994
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:50:00Z,2026-03-23 08:50 ET,90,110.65,111.74,110.45,111.49,0,True,False,112.89,-1.2442,1.2442
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T12:55:00Z,2026-03-23 08:55 ET,95,111.5,111.8,110.95,111.44,0,True,False,112.89,-1.2861,1.2861
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:00:00Z,2026-03-23 09:00 ET,100,111.36,111.64,109.85,111.18,0,True,False,112.89,-1.5147,1.5147
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:05:00Z,2026-03-23 09:05 ET,105,111.2,111.78,111.02,111.29,0,True,False,112.89,-1.4162,1.4162
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:10:00Z,2026-03-23 09:10 ET,110,111.3,112.44,111.02,112.39,0,True,False,112.89,-0.4423,0.4423
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:30:00Z,2026-03-23 09:30 ET,130,113.29,113.36,112.61,112.97,12785105,False,True,112.89,0.0709,0.0709
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:35:00Z,2026-03-23 09:35 ET,135,112.99,113.46,111.91,111.93,1545686,False,True,112.89,-0.8548,0.8548
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:40:00Z,2026-03-23 09:40 ET,140,111.97,112.56,110.87,111.59,2509600,False,True,112.89,-1.1516,1.1516
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:45:00Z,2026-03-23 09:45 ET,145,111.57,111.72,110.48,110.57,2086151,False,True,112.89,-2.0551,2.0551
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:50:00Z,2026-03-23 09:50 ET,150,110.57,110.99,110.1,110.97,1736118,False,True,112.89,-1.7008,1.7008
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T13:55:00Z,2026-03-23 09:55 ET,155,110.99,111.65,110.71,111.05,1892199,False,True,112.89,-1.6299,1.6299
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T14:00:00Z,2026-03-23 10:00 ET,160,111.06,111.21,109.58,110.18,2735822,False,True,112.89,-2.4006,2.4006
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T14:05:00Z,2026-03-23 10:05 ET,165,110.18,110.73,109.94,110.51,2034140,False,True,112.89,-2.1038,2.1038
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T14:10:00Z,2026-03-23 10:10 ET,170,110.51,111.0,110.12,110.87,1426947,False,True,112.89,-1.7894,1.7894
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T14:15:00Z,2026-03-23 10:15 ET,175,110.87,110.93,110.08,110.35,1278649,False,True,112.89,-2.25,2.25
+mar23_iran_ceasefire,"Mar 23: Iran ceasefire announcement (""pre-event signal"")",2026-03-23T14:20:00Z,2026-03-23 10:20 ET,180,110.3,110.61,109.77,110.06,1498786,False,True,112.89,-2.5069,2.5069
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:10:00Z,2026-04-07 13:10 ET,-180,141.51,142.0,141.51,141.89,289818,False,True,137.76,2.998,2.998
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:15:00Z,2026-04-07 13:15 ET,-175,141.9,142.18,141.71,142.08,224725,False,True,137.76,3.1359,3.1359
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:20:00Z,2026-04-07 13:20 ET,-170,142.06,142.46,142.04,142.38,210517,False,True,137.76,3.35,3.35
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:25:00Z,2026-04-07 13:25 ET,-165,142.4,142.8,141.95,142.33,399278,False,True,137.76,3.3174,3.3174
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:30:00Z,2026-04-07 13:30 ET,-160,142.27,142.28,141.2,141.28,604356,False,True,137.76,2.5552,2.5552
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:35:00Z,2026-04-07 13:35 ET,-155,141.25,141.37,140.55,141.1,754239,False,True,137.76,2.4245,2.4245
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:40:00Z,2026-04-07 13:40 ET,-150,141.09,141.52,140.98,141.33,462964,False,True,137.76,2.5915,2.5915
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:45:00Z,2026-04-07 13:45 ET,-145,141.35,141.77,140.96,141.18,297540,False,True,137.76,2.4826,2.4826
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:50:00Z,2026-04-07 13:50 ET,-140,141.05,141.15,140.43,140.86,387319,False,True,137.76,2.2494,2.2494
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T17:55:00Z,2026-04-07 13:55 ET,-135,140.77,141.7,140.65,141.18,517652,False,True,137.76,2.4826,2.4826
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:00:00Z,2026-04-07 14:00 ET,-130,141.15,141.15,140.55,140.87,191713,False,True,137.76,2.2574,2.2574
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:05:00Z,2026-04-07 14:05 ET,-125,140.83,141.23,140.79,140.99,157647,False,True,137.76,2.3447,2.3447
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:10:00Z,2026-04-07 14:10 ET,-120,140.94,141.25,140.65,140.9,141445,False,True,137.76,2.2793,2.2793
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:15:00Z,2026-04-07 14:15 ET,-115,140.95,141.05,140.16,140.3,575397,False,True,137.76,1.8439,1.8439
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:20:00Z,2026-04-07 14:20 ET,-110,140.28,140.81,140.15,140.6,392162,False,True,137.76,2.0616,2.0616
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:25:00Z,2026-04-07 14:25 ET,-105,140.54,140.67,139.78,139.93,413384,False,True,137.76,1.5752,1.5752
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:30:00Z,2026-04-07 14:30 ET,-100,139.94,140.3,139.83,140.14,497683,False,True,137.76,1.7274,1.7274
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:35:00Z,2026-04-07 14:35 ET,-95,140.18,140.68,140.14,140.54,268035,False,True,137.76,2.018,2.018
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:40:00Z,2026-04-07 14:40 ET,-90,140.52,141.21,140.52,141.07,255630,False,True,137.76,2.3991,2.3991
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:45:00Z,2026-04-07 14:45 ET,-85,141.05,141.41,141.0,141.15,343781,False,True,137.76,2.4578,2.4578
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:50:00Z,2026-04-07 14:50 ET,-80,141.15,141.59,141.1,141.46,252971,False,True,137.76,2.6895,2.6895
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T18:55:00Z,2026-04-07 14:55 ET,-75,141.46,141.83,141.34,141.47,247055,False,True,137.76,2.6935,2.6935
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:00:00Z,2026-04-07 15:00 ET,-70,141.48,141.63,141.08,141.26,191573,False,True,137.76,2.5406,2.5406
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:05:00Z,2026-04-07 15:05 ET,-65,141.27,141.73,140.46,141.69,447932,False,True,137.76,2.8528,2.8528
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:10:00Z,2026-04-07 15:10 ET,-60,141.7,141.75,141.22,141.51,160506,False,True,137.76,2.7221,2.7221
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:15:00Z,2026-04-07 15:15 ET,-55,141.54,141.54,138.23,138.78,1374820,False,True,137.76,0.7404,0.7404
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:20:00Z,2026-04-07 15:20 ET,-50,138.78,140.21,138.22,139.61,1268515,False,True,137.76,1.3428,1.3428
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:25:00Z,2026-04-07 15:25 ET,-45,139.62,139.79,139.02,139.47,633922,False,True,137.76,1.2413,1.2413
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:30:00Z,2026-04-07 15:30 ET,-40,139.46,140.02,139.36,139.99,398288,False,True,137.76,1.6151,1.6151
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:35:00Z,2026-04-07 15:35 ET,-35,139.97,140.13,139.76,139.85,518186,False,True,137.76,1.5171,1.5171
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:40:00Z,2026-04-07 15:40 ET,-30,139.76,140.06,138.97,139.66,479732,False,True,137.76,1.3791,1.3791
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:45:00Z,2026-04-07 15:45 ET,-25,139.7,139.97,130.0,137.85,4354090,False,True,137.76,0.0653,0.0653
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:50:00Z,2026-04-07 15:50 ET,-20,137.81,138.42,136.94,138.09,888199,False,True,137.76,0.2395,0.2395
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T19:55:00Z,2026-04-07 15:55 ET,-15,138.09,138.45,137.77,138.09,850317,False,True,137.76,0.2395,0.2395
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:00:00Z,2026-04-07 16:00 ET,-10,138.07,138.32,136.4,136.9,0,True,False,137.76,-0.6242,0.6242
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:05:00Z,2026-04-07 16:05 ET,-5,136.88,138.29,136.88,137.51,0,True,False,137.76,-0.1813,0.1813
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:10:00Z,2026-04-07 16:10 ET,0,137.48,138.19,137.38,137.76,0,True,False,137.76,0.0,0.0
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:15:00Z,2026-04-07 16:15 ET,5,137.73,138.29,137.05,137.43,0,True,False,137.76,-0.2392,0.2392
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:20:00Z,2026-04-07 16:20 ET,10,137.4,138.1,137.4,137.7,0,True,False,137.76,-0.0436,0.0436
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:25:00Z,2026-04-07 16:25 ET,15,137.65,138.37,136.71,137.09,0,True,False,137.76,-0.4864,0.4864
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:30:00Z,2026-04-07 16:30 ET,20,137.0,137.13,136.21,136.66,0,True,False,137.76,-0.7985,0.7985
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:35:00Z,2026-04-07 16:35 ET,25,136.55,137.86,136.29,137.86,0,True,False,137.76,0.0719,0.0719
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:40:00Z,2026-04-07 16:40 ET,30,137.79,137.8,136.3,136.92,0,True,False,137.76,-0.6098,0.6098
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:45:00Z,2026-04-07 16:45 ET,35,136.9,137.31,136.47,137.12,0,True,False,137.76,-0.4646,0.4646
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:50:00Z,2026-04-07 16:50 ET,40,137.19,137.5,136.85,137.1,0,True,False,137.76,-0.4791,0.4791
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T20:55:00Z,2026-04-07 16:55 ET,45,137.07,137.09,136.22,136.47,0,True,False,137.76,-0.9364,0.9364
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:00:00Z,2026-04-07 17:00 ET,50,136.47,136.9,136.02,136.05,0,True,False,137.76,-1.2413,1.2413
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:05:00Z,2026-04-07 17:05 ET,55,136.08,138.08,136.01,136.25,0,True,False,137.76,-1.0961,1.0961
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:10:00Z,2026-04-07 17:10 ET,60,136.23,136.35,135.85,136.15,0,True,False,137.76,-1.1687,1.1687
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:15:00Z,2026-04-07 17:15 ET,65,136.15,136.4,136.15,136.25,0,True,False,137.76,-1.0925,1.0925
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:20:00Z,2026-04-07 17:20 ET,70,136.22,136.4,136.09,136.32,0,True,False,137.76,-1.0453,1.0453
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:25:00Z,2026-04-07 17:25 ET,75,136.3,136.7,136.3,136.65,0,True,False,137.76,-0.8057,0.8057
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:30:00Z,2026-04-07 17:30 ET,80,136.55,136.67,136.28,136.55,0,True,False,137.76,-0.8783,0.8783
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:35:00Z,2026-04-07 17:35 ET,85,136.43,136.56,135.95,135.95,0,True,False,137.76,-1.3139,1.3139
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:40:00Z,2026-04-07 17:40 ET,90,135.98,136.5,135.95,136.07,0,True,False,137.76,-1.2287,1.2287
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:45:00Z,2026-04-07 17:45 ET,95,136.07,136.3,135.9,136.12,0,True,False,137.76,-1.1901,1.1901
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:50:00Z,2026-04-07 17:50 ET,100,136.3,136.4,136.1,136.26,0,True,False,137.76,-1.0894,1.0894
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T21:55:00Z,2026-04-07 17:55 ET,105,136.25,136.33,136.0,136.0,0,True,False,137.76,-1.2776,1.2776
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:00:00Z,2026-04-07 18:00 ET,110,136.0,136.14,132.51,133.46,0,True,False,137.76,-3.1214,3.1214
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:05:00Z,2026-04-07 18:05 ET,115,133.46,133.54,132.65,133.18,0,True,False,137.76,-3.3246,3.3246
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:10:00Z,2026-04-07 18:10 ET,120,133.16,133.79,133.15,133.62,0,True,False,137.76,-3.0052,3.0052
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:15:00Z,2026-04-07 18:15 ET,125,133.5,134.42,133.5,134.04,0,True,False,137.76,-2.7003,2.7003
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:20:00Z,2026-04-07 18:20 ET,130,133.9,134.26,133.48,133.74,0,True,False,137.76,-2.9181,2.9181
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:25:00Z,2026-04-07 18:25 ET,135,133.76,133.99,133.44,133.69,0,True,False,137.76,-2.9544,2.9544
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:30:00Z,2026-04-07 18:30 ET,140,133.6,142.88,126.23,129.9,0,True,False,137.76,-5.7056,5.7056
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:35:00Z,2026-04-07 18:35 ET,145,129.74,130.44,126.34,126.39,0,True,False,137.76,-8.2535,8.2535
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:40:00Z,2026-04-07 18:40 ET,150,126.4,129.4,125.6,127.96,0,True,False,137.76,-7.1138,7.1138
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:45:00Z,2026-04-07 18:45 ET,155,128.0,129.43,126.52,126.79,0,True,False,137.76,-7.9652,7.9652
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:50:00Z,2026-04-07 18:50 ET,160,126.75,127.13,123.65,125.28,0,True,False,137.76,-9.0592,9.0592
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T22:55:00Z,2026-04-07 18:55 ET,165,124.92,125.68,123.02,124.86,0,True,False,137.76,-9.3641,9.3641
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T23:00:00Z,2026-04-07 19:00 ET,170,124.7,124.8,120.62,120.88,0,True,False,137.76,-12.2532,12.2532
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T23:05:00Z,2026-04-07 19:05 ET,175,120.88,121.99,118.93,120.73,0,True,False,137.76,-12.3621,12.3621
+apr7_indiana_burst,"Apr 7: 14-min endorsement burst (""the massive one"")",2026-04-07T23:10:00Z,2026-04-07 19:10 ET,180,120.76,122.37,120.53,120.75,0,True,False,137.76,-12.3439,12.3439
