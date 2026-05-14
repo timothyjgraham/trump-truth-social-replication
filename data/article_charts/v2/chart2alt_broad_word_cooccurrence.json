@@ -1,0 +1,2337 @@
+{
+  "universe": "all topic_energy_oil posts (broad \u2014 topic-classifier hits)",
+  "n_posts": 173,
+  "n_words_kept": 30,
+  "n_edges_kept": 435,
+  "top_k": 30,
+  "min_edge_weight": 3,
+  "nodes": [
+    {
+      "id": "energy",
+      "label": "energy",
+      "post_count": 156
+    },
+    {
+      "id": "military",
+      "label": "military",
+      "post_count": 156
+    },
+    {
+      "id": "american",
+      "label": "american",
+      "post_count": 152
+    },
+    {
+      "id": "dominance",
+      "label": "dominance",
+      "post_count": 151
+    },
+    {
+      "id": "complete",
+      "label": "complete",
+      "post_count": 150
+    },
+    {
+      "id": "total",
+      "label": "total",
+      "post_count": 150
+    },
+    {
+      "id": "taxes",
+      "label": "taxes",
+      "post_count": 149
+    },
+    {
+      "id": "amendment",
+      "label": "amendment",
+      "post_count": 148
+    },
+    {
+      "id": "endorsement",
+      "label": "endorsement",
+      "post_count": 148
+    },
+    {
+      "id": "second",
+      "label": "second",
+      "post_count": 148
+    },
+    {
+      "id": "siege",
+      "label": "siege",
+      "post_count": 148
+    },
+    {
+      "id": "cut",
+      "label": "cut",
+      "post_count": 147
+    },
+    {
+      "id": "regulations",
+      "label": "regulations",
+      "post_count": 145
+    },
+    {
+      "id": "veterans",
+      "label": "veterans",
+      "post_count": 145
+    },
+    {
+      "id": "promote",
+      "label": "promote",
+      "post_count": 136
+    },
+    {
+      "id": "economy",
+      "label": "economy",
+      "post_count": 133
+    },
+    {
+      "id": "grow",
+      "label": "grow",
+      "post_count": 132
+    },
+    {
+      "id": "district",
+      "label": "district",
+      "post_count": 131
+    },
+    {
+      "id": "tirelessly",
+      "label": "tirelessly",
+      "post_count": 113
+    },
+    {
+      "id": "america",
+      "label": "america",
+      "post_count": 112
+    },
+    {
+      "id": "border",
+      "label": "border",
+      "post_count": 110
+    },
+    {
+      "id": "protect",
+      "label": "protect",
+      "post_count": 110
+    },
+    {
+      "id": "secure",
+      "label": "secure",
+      "post_count": 110
+    },
+    {
+      "id": "keep",
+      "label": "keep",
+      "post_count": 107
+    },
+    {
+      "id": "stop",
+      "label": "stop",
+      "post_count": 106
+    },
+    {
+      "id": "champion",
+      "label": "champion",
+      "post_count": 104
+    },
+    {
+      "id": "election",
+      "label": "election",
+      "post_count": 104
+    },
+    {
+      "id": "crime",
+      "label": "crime",
+      "post_count": 99
+    },
+    {
+      "id": "migrant",
+      "label": "migrant",
+      "post_count": 99
+    },
+    {
+      "id": "state",
+      "label": "state",
+      "post_count": 94
+    }
+  ],
+  "links": [
+    {
+      "source": "american",
+      "target": "energy",
+      "weight": 152
+    },
+    {
+      "source": "american",
+      "target": "dominance",
+      "weight": 151
+    },
+    {
+      "source": "dominance",
+      "target": "energy",
+      "weight": 151
+    },
+    {
+      "source": "complete",
+      "target": "energy",
+      "weight": 150
+    },
+    {
+      "source": "complete",
+      "target": "total",
+      "weight": 150
+    },
+    {
+      "source": "energy",
+      "target": "military",
+      "weight": 150
+    },
+    {
+      "source": "energy",
+      "target": "total",
+      "weight": 150
+    },
+    {
+      "source": "american",
+      "target": "taxes",
+      "weight": 149
+    },
+    {
+      "source": "complete",
+      "target": "military",
+      "weight": 149
+    },
+    {
+      "source": "dominance",
+      "target": "taxes",
+      "weight": 149
+    },
+    {
+      "source": "energy",
+      "target": "taxes",
+      "weight": 149
+    },
+    {
+      "source": "military",
+      "target": "total",
+      "weight": 149
+    },
+    {
+      "source": "amendment",
+      "target": "american",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "complete",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "dominance",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "endorsement",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "energy",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "taxes",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "american",
+      "target": "complete",
+      "weight": 148
+    },
+    {
+      "source": "american",
+      "target": "endorsement",
+      "weight": 148
+    },
+    {
+      "source": "american",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "american",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "american",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "complete",
+      "target": "dominance",
+      "weight": 148
+    },
+    {
+      "source": "complete",
+      "target": "endorsement",
+      "weight": 148
+    },
+    {
+      "source": "complete",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "complete",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "complete",
+      "target": "taxes",
+      "weight": 148
+    },
+    {
+      "source": "dominance",
+      "target": "endorsement",
+      "weight": 148
+    },
+    {
+      "source": "dominance",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "dominance",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "dominance",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "endorsement",
+      "target": "energy",
+      "weight": 148
+    },
+    {
+      "source": "endorsement",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "endorsement",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "endorsement",
+      "target": "taxes",
+      "weight": 148
+    },
+    {
+      "source": "endorsement",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "energy",
+      "target": "second",
+      "weight": 148
+    },
+    {
+      "source": "energy",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "second",
+      "target": "siege",
+      "weight": 148
+    },
+    {
+      "source": "second",
+      "target": "taxes",
+      "weight": 148
+    },
+    {
+      "source": "second",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "siege",
+      "target": "taxes",
+      "weight": 148
+    },
+    {
+      "source": "siege",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "taxes",
+      "target": "total",
+      "weight": 148
+    },
+    {
+      "source": "amendment",
+      "target": "cut",
+      "weight": 147
+    },
+    {
+      "source": "amendment",
+      "target": "military",
+      "weight": 147
+    },
+    {
+      "source": "american",
+      "target": "cut",
+      "weight": 147
+    },
+    {
+      "source": "american",
+      "target": "military",
+      "weight": 147
+    },
+    {
+      "source": "complete",
+      "target": "cut",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "dominance",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "endorsement",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "energy",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "second",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "siege",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "taxes",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "total",
+      "weight": 147
+    },
+    {
+      "source": "dominance",
+      "target": "military",
+      "weight": 147
+    },
+    {
+      "source": "endorsement",
+      "target": "military",
+      "weight": 147
+    },
+    {
+      "source": "military",
+      "target": "second",
+      "weight": 147
+    },
+    {
+      "source": "military",
+      "target": "siege",
+      "weight": 147
+    },
+    {
+      "source": "military",
+      "target": "taxes",
+      "weight": 147
+    },
+    {
+      "source": "cut",
+      "target": "military",
+      "weight": 146
+    },
+    {
+      "source": "amendment",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "amendment",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "american",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "american",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "complete",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "complete",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "dominance",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "dominance",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "endorsement",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "endorsement",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "energy",
+      "target": "regulations",
+      "weight": 145
+    },
+    {
+      "source": "energy",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "military",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "regulations",
+      "target": "second",
+      "weight": 145
+    },
+    {
+      "source": "regulations",
+      "target": "siege",
+      "weight": 145
+    },
+    {
+      "source": "regulations",
+      "target": "taxes",
+      "weight": 145
+    },
+    {
+      "source": "regulations",
+      "target": "total",
+      "weight": 145
+    },
+    {
+      "source": "second",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "siege",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "taxes",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "total",
+      "target": "veterans",
+      "weight": 145
+    },
+    {
+      "source": "cut",
+      "target": "regulations",
+      "weight": 144
+    },
+    {
+      "source": "cut",
+      "target": "veterans",
+      "weight": 144
+    },
+    {
+      "source": "military",
+      "target": "regulations",
+      "weight": 144
+    },
+    {
+      "source": "regulations",
+      "target": "veterans",
+      "weight": 142
+    },
+    {
+      "source": "amendment",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "american",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "complete",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "cut",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "dominance",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "endorsement",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "energy",
+      "target": "promote",
+      "weight": 136
+    },
+    {
+      "source": "promote",
+      "target": "second",
+      "weight": 136
+    },
+    {
+      "source": "promote",
+      "target": "siege",
+      "weight": 136
+    },
+    {
+      "source": "promote",
+      "target": "taxes",
+      "weight": 136
+    },
+    {
+      "source": "promote",
+      "target": "total",
+      "weight": 136
+    },
+    {
+      "source": "military",
+      "target": "promote",
+      "weight": 135
+    },
+    {
+      "source": "promote",
+      "target": "veterans",
+      "weight": 135
+    },
+    {
+      "source": "amendment",
+      "target": "economy",
+      "weight": 133
+    },
+    {
+      "source": "american",
+      "target": "economy",
+      "weight": 133
+    },
+    {
+      "source": "complete",
+      "target": "economy",
+      "weight": 133
+    },
+    {
+      "source": "dominance",
+      "target": "economy",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "endorsement",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "energy",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "second",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "siege",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "taxes",
+      "weight": 133
+    },
+    {
+      "source": "economy",
+      "target": "total",
+      "weight": 133
+    },
+    {
+      "source": "promote",
+      "target": "regulations",
+      "weight": 133
+    },
+    {
+      "source": "amendment",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "american",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "complete",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "cut",
+      "target": "economy",
+      "weight": 132
+    },
+    {
+      "source": "cut",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "dominance",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "economy",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "economy",
+      "target": "military",
+      "weight": 132
+    },
+    {
+      "source": "endorsement",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "energy",
+      "target": "grow",
+      "weight": 132
+    },
+    {
+      "source": "grow",
+      "target": "second",
+      "weight": 132
+    },
+    {
+      "source": "grow",
+      "target": "siege",
+      "weight": 132
+    },
+    {
+      "source": "grow",
+      "target": "taxes",
+      "weight": 132
+    },
+    {
+      "source": "grow",
+      "target": "total",
+      "weight": 132
+    },
+    {
+      "source": "amendment",
+      "target": "district",
+      "weight": 131
+    },
+    {
+      "source": "american",
+      "target": "district",
+      "weight": 131
+    },
+    {
+      "source": "complete",
+      "target": "district",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "dominance",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "endorsement",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "energy",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "military",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "second",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "siege",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "taxes",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "total",
+      "weight": 131
+    },
+    {
+      "source": "district",
+      "target": "veterans",
+      "weight": 131
+    },
+    {
+      "source": "grow",
+      "target": "military",
+      "weight": 131
+    },
+    {
+      "source": "cut",
+      "target": "district",
+      "weight": 130
+    },
+    {
+      "source": "economy",
+      "target": "regulations",
+      "weight": 130
+    },
+    {
+      "source": "economy",
+      "target": "veterans",
+      "weight": 130
+    },
+    {
+      "source": "grow",
+      "target": "regulations",
+      "weight": 129
+    },
+    {
+      "source": "grow",
+      "target": "veterans",
+      "weight": 129
+    },
+    {
+      "source": "district",
+      "target": "regulations",
+      "weight": 128
+    },
+    {
+      "source": "economy",
+      "target": "promote",
+      "weight": 123
+    },
+    {
+      "source": "grow",
+      "target": "promote",
+      "weight": 123
+    },
+    {
+      "source": "district",
+      "target": "promote",
+      "weight": 122
+    },
+    {
+      "source": "district",
+      "target": "economy",
+      "weight": 116
+    },
+    {
+      "source": "district",
+      "target": "grow",
+      "weight": 115
+    },
+    {
+      "source": "amendment",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "american",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "complete",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "cut",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "dominance",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "endorsement",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "energy",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "regulations",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "second",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "siege",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "taxes",
+      "target": "tirelessly",
+      "weight": 113
+    },
+    {
+      "source": "tirelessly",
+      "target": "total",
+      "weight": 113
+    },
+    {
+      "source": "military",
+      "target": "tirelessly",
+      "weight": 112
+    },
+    {
+      "source": "amendment",
+      "target": "border",
+      "weight": 110
+    },
+    {
+      "source": "amendment",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "amendment",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "american",
+      "target": "border",
+      "weight": 110
+    },
+    {
+      "source": "american",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "american",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "complete",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "dominance",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "endorsement",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "energy",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "second",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "siege",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "taxes",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "total",
+      "weight": 110
+    },
+    {
+      "source": "complete",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "complete",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "cut",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "dominance",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "dominance",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "endorsement",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "endorsement",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "energy",
+      "target": "protect",
+      "weight": 110
+    },
+    {
+      "source": "energy",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "protect",
+      "target": "second",
+      "weight": 110
+    },
+    {
+      "source": "protect",
+      "target": "siege",
+      "weight": 110
+    },
+    {
+      "source": "protect",
+      "target": "taxes",
+      "weight": 110
+    },
+    {
+      "source": "protect",
+      "target": "total",
+      "weight": 110
+    },
+    {
+      "source": "second",
+      "target": "secure",
+      "weight": 110
+    },
+    {
+      "source": "secure",
+      "target": "siege",
+      "weight": 110
+    },
+    {
+      "source": "secure",
+      "target": "taxes",
+      "weight": 110
+    },
+    {
+      "source": "secure",
+      "target": "total",
+      "weight": 110
+    },
+    {
+      "source": "tirelessly",
+      "target": "veterans",
+      "weight": 110
+    },
+    {
+      "source": "border",
+      "target": "cut",
+      "weight": 109
+    },
+    {
+      "source": "border",
+      "target": "military",
+      "weight": 109
+    },
+    {
+      "source": "border",
+      "target": "regulations",
+      "weight": 109
+    },
+    {
+      "source": "cut",
+      "target": "secure",
+      "weight": 109
+    },
+    {
+      "source": "military",
+      "target": "protect",
+      "weight": 109
+    },
+    {
+      "source": "military",
+      "target": "secure",
+      "weight": 109
+    },
+    {
+      "source": "regulations",
+      "target": "secure",
+      "weight": 109
+    },
+    {
+      "source": "border",
+      "target": "veterans",
+      "weight": 107
+    },
+    {
+      "source": "protect",
+      "target": "regulations",
+      "weight": 107
+    },
+    {
+      "source": "protect",
+      "target": "veterans",
+      "weight": 107
+    },
+    {
+      "source": "secure",
+      "target": "veterans",
+      "weight": 107
+    },
+    {
+      "source": "amendment",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "america",
+      "target": "energy",
+      "weight": 105
+    },
+    {
+      "source": "america",
+      "target": "military",
+      "weight": 105
+    },
+    {
+      "source": "american",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "american",
+      "target": "stop",
+      "weight": 105
+    },
+    {
+      "source": "border",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "complete",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "cut",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "dominance",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "endorsement",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "energy",
+      "target": "keep",
+      "weight": 105
+    },
+    {
+      "source": "energy",
+      "target": "stop",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "military",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "second",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "secure",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "siege",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "taxes",
+      "weight": 105
+    },
+    {
+      "source": "keep",
+      "target": "total",
+      "weight": 105
+    },
+    {
+      "source": "amendment",
+      "target": "champion",
+      "weight": 104
+    },
+    {
+      "source": "amendment",
+      "target": "election",
+      "weight": 104
+    },
+    {
+      "source": "amendment",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "american",
+      "target": "champion",
+      "weight": 104
+    },
+    {
+      "source": "american",
+      "target": "election",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "complete",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "cut",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "dominance",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "endorsement",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "energy",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "second",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "siege",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "taxes",
+      "weight": 104
+    },
+    {
+      "source": "champion",
+      "target": "total",
+      "weight": 104
+    },
+    {
+      "source": "complete",
+      "target": "election",
+      "weight": 104
+    },
+    {
+      "source": "complete",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "cut",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "dominance",
+      "target": "election",
+      "weight": 104
+    },
+    {
+      "source": "dominance",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "endorsement",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "energy",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "second",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "siege",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "taxes",
+      "weight": 104
+    },
+    {
+      "source": "election",
+      "target": "total",
+      "weight": 104
+    },
+    {
+      "source": "endorsement",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "keep",
+      "target": "regulations",
+      "weight": 104
+    },
+    {
+      "source": "keep",
+      "target": "veterans",
+      "weight": 104
+    },
+    {
+      "source": "military",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "second",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "siege",
+      "target": "stop",
+      "weight": 104
+    },
+    {
+      "source": "stop",
+      "target": "taxes",
+      "weight": 104
+    },
+    {
+      "source": "stop",
+      "target": "total",
+      "weight": 104
+    },
+    {
+      "source": "america",
+      "target": "american",
+      "weight": 103
+    },
+    {
+      "source": "america",
+      "target": "dominance",
+      "weight": 103
+    },
+    {
+      "source": "champion",
+      "target": "military",
+      "weight": 103
+    },
+    {
+      "source": "cut",
+      "target": "election",
+      "weight": 103
+    },
+    {
+      "source": "election",
+      "target": "military",
+      "weight": 103
+    },
+    {
+      "source": "america",
+      "target": "complete",
+      "weight": 102
+    },
+    {
+      "source": "america",
+      "target": "total",
+      "weight": 102
+    },
+    {
+      "source": "promote",
+      "target": "protect",
+      "weight": 102
+    },
+    {
+      "source": "promote",
+      "target": "tirelessly",
+      "weight": 102
+    },
+    {
+      "source": "america",
+      "target": "taxes",
+      "weight": 101
+    },
+    {
+      "source": "champion",
+      "target": "regulations",
+      "weight": 101
+    },
+    {
+      "source": "champion",
+      "target": "veterans",
+      "weight": 101
+    },
+    {
+      "source": "election",
+      "target": "regulations",
+      "weight": 101
+    },
+    {
+      "source": "election",
+      "target": "veterans",
+      "weight": 101
+    },
+    {
+      "source": "regulations",
+      "target": "stop",
+      "weight": 101
+    },
+    {
+      "source": "stop",
+      "target": "veterans",
+      "weight": 101
+    },
+    {
+      "source": "amendment",
+      "target": "america",
+      "weight": 100
+    },
+    {
+      "source": "america",
+      "target": "endorsement",
+      "weight": 100
+    },
+    {
+      "source": "america",
+      "target": "second",
+      "weight": 100
+    },
+    {
+      "source": "america",
+      "target": "siege",
+      "weight": 100
+    },
+    {
+      "source": "amendment",
+      "target": "crime",
+      "weight": 99
+    },
+    {
+      "source": "amendment",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "america",
+      "target": "cut",
+      "weight": 99
+    },
+    {
+      "source": "america",
+      "target": "veterans",
+      "weight": 99
+    },
+    {
+      "source": "american",
+      "target": "crime",
+      "weight": 99
+    },
+    {
+      "source": "american",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "complete",
+      "target": "crime",
+      "weight": 99
+    },
+    {
+      "source": "complete",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "cut",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "dominance",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "endorsement",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "energy",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "second",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "siege",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "stop",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "taxes",
+      "weight": 99
+    },
+    {
+      "source": "crime",
+      "target": "total",
+      "weight": 99
+    },
+    {
+      "source": "cut",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "dominance",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "economy",
+      "target": "protect",
+      "weight": 99
+    },
+    {
+      "source": "economy",
+      "target": "tirelessly",
+      "weight": 99
+    },
+    {
+      "source": "endorsement",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "energy",
+      "target": "migrant",
+      "weight": 99
+    },
+    {
+      "source": "grow",
+      "target": "protect",
+      "weight": 99
+    },
+    {
+      "source": "grow",
+      "target": "tirelessly",
+      "weight": 99
+    },
+    {
+      "source": "migrant",
+      "target": "second",
+      "weight": 99
+    },
+    {
+      "source": "migrant",
+      "target": "siege",
+      "weight": 99
+    },
+    {
+      "source": "migrant",
+      "target": "stop",
+      "weight": 99
+    },
+    {
+      "source": "migrant",
+      "target": "taxes",
+      "weight": 99
+    },
+    {
+      "source": "migrant",
+      "target": "total",
+      "weight": 99
+    },
+    {
+      "source": "america",
+      "target": "regulations",
+      "weight": 98
+    },
+    {
+      "source": "border",
+      "target": "promote",
+      "weight": 98
+    },
+    {
+      "source": "crime",
+      "target": "military",
+      "weight": 98
+    },
+    {
+      "source": "keep",
+      "target": "promote",
+      "weight": 98
+    },
+    {
+      "source": "migrant",
+      "target": "military",
+      "weight": 98
+    },
+    {
+      "source": "promote",
+      "target": "secure",
+      "weight": 98
+    },
+    {
+      "source": "district",
+      "target": "protect",
+      "weight": 97
+    },
+    {
+      "source": "district",
+      "target": "tirelessly",
+      "weight": 97
+    },
+    {
+      "source": "crime",
+      "target": "regulations",
+      "weight": 96
+    },
+    {
+      "source": "crime",
+      "target": "veterans",
+      "weight": 96
+    },
+    {
+      "source": "migrant",
+      "target": "regulations",
+      "weight": 96
+    },
+    {
+      "source": "migrant",
+      "target": "veterans",
+      "weight": 96
+    },
+    {
+      "source": "border",
+      "target": "economy",
+      "weight": 95
+    },
+    {
+      "source": "champion",
+      "target": "promote",
+      "weight": 95
+    },
+    {
+      "source": "economy",
+      "target": "secure",
+      "weight": 95
+    },
+    {
+      "source": "promote",
+      "target": "stop",
+      "weight": 95
+    },
+    {
+      "source": "border",
+      "target": "grow",
+      "weight": 94
+    },
+    {
+      "source": "economy",
+      "target": "election",
+      "weight": 94
+    },
+    {
+      "source": "election",
+      "target": "promote",
+      "weight": 94
+    },
+    {
+      "source": "grow",
+      "target": "secure",
+      "weight": 94
+    },
+    {
+      "source": "america",
+      "target": "promote",
+      "weight": 93
+    },
+    {
+      "source": "american",
+      "target": "state",
+      "weight": 93
+    },
+    {
+      "source": "border",
+      "target": "district",
+      "weight": 93
+    },
+    {
+      "source": "district",
+      "target": "election",
+      "weight": 93
+    },
+    {
+      "source": "district",
+      "target": "secure",
+      "weight": 93
+    },
+    {
+      "source": "dominance",
+      "target": "state",
+      "weight": 93
+    },
+    {
+      "source": "economy",
+      "target": "stop",
+      "weight": 93
+    },
+    {
+      "source": "election",
+      "target": "grow",
+      "weight": 93
+    },
+    {
+      "source": "energy",
+      "target": "state",
+      "weight": 93
+    },
+    {
+      "source": "grow",
+      "target": "stop",
+      "weight": 93
+    },
+    {
+      "source": "amendment",
+      "target": "state",
+      "weight": 92
+    },
+    {
+      "source": "complete",
+      "target": "state",
+      "weight": 92
+    },
+    {
+      "source": "endorsement",
+      "target": "state",
+      "weight": 92
+    },
+    {
+      "source": "second",
+      "target": "state",
+      "weight": 92
+    },
+    {
+      "source": "siege",
+      "target": "state",
+      "weight": 92
+    },
+    {
+      "source": "state",
+      "target": "taxes",
+      "weight": 92
+    },
+    {
+      "source": "state",
+      "target": "total",
+      "weight": 92
+    },
+    {
+      "source": "cut",
+      "target": "state",
+      "weight": 91
+    },
+    {
+      "source": "economy",
+      "target": "keep",
+      "weight": 91
+    },
+    {
+      "source": "grow",
+      "target": "keep",
+      "weight": 91
+    },
+    {
+      "source": "military",
+      "target": "state",
+      "weight": 91
+    },
+    {
+      "source": "state",
+      "target": "veterans",
+      "weight": 91
+    },
+    {
+      "source": "champion",
+      "target": "district",
+      "weight": 90
+    },
+    {
+      "source": "champion",
+      "target": "economy",
+      "weight": 90
+    },
+    {
+      "source": "champion",
+      "target": "grow",
+      "weight": 90
+    },
+    {
+      "source": "crime",
+      "target": "promote",
+      "weight": 90
+    },
+    {
+      "source": "district",
+      "target": "keep",
+      "weight": 90
+    },
+    {
+      "source": "district",
+      "target": "stop",
+      "weight": 90
+    },
+    {
+      "source": "economy",
+      "target": "state",
+      "weight": 90
+    },
+    {
+      "source": "migrant",
+      "target": "promote",
+      "weight": 90
+    },
+    {
+      "source": "regulations",
+      "target": "state",
+      "weight": 90
+    },
+    {
+      "source": "america",
+      "target": "district",
+      "weight": 89
+    },
+    {
+      "source": "grow",
+      "target": "state",
+      "weight": 89
+    },
+    {
+      "source": "crime",
+      "target": "economy",
+      "weight": 88
+    },
+    {
+      "source": "crime",
+      "target": "grow",
+      "weight": 88
+    },
+    {
+      "source": "economy",
+      "target": "migrant",
+      "weight": 88
+    },
+    {
+      "source": "grow",
+      "target": "migrant",
+      "weight": 88
+    },
+    {
+      "source": "protect",
+      "target": "tirelessly",
+      "weight": 88
+    },
+    {
+      "source": "promote",
+      "target": "state",
+      "weight": 87
+    },
+    {
+      "source": "america",
+      "target": "economy",
+      "weight": 86
+    },
+    {
+      "source": "election",
+      "target": "protect",
+      "weight": 86
+    },
+    {
+      "source": "america",
+      "target": "grow",
+      "weight": 85
+    },
+    {
+      "source": "border",
+      "target": "tirelessly",
+      "weight": 85
+    },
+    {
+      "source": "crime",
+      "target": "district",
+      "weight": 85
+    },
+    {
+      "source": "district",
+      "target": "migrant",
+      "weight": 85
+    },
+    {
+      "source": "secure",
+      "target": "tirelessly",
+      "weight": 85
+    },
+    {
+      "source": "america",
+      "target": "tirelessly",
+      "weight": 82
+    },
+    {
+      "source": "stop",
+      "target": "tirelessly",
+      "weight": 82
+    },
+    {
+      "source": "election",
+      "target": "tirelessly",
+      "weight": 81
+    },
+    {
+      "source": "keep",
+      "target": "tirelessly",
+      "weight": 81
+    },
+    {
+      "source": "protect",
+      "target": "state",
+      "weight": 81
+    },
+    {
+      "source": "champion",
+      "target": "tirelessly",
+      "weight": 80
+    },
+    {
+      "source": "america",
+      "target": "border",
+      "weight": 78
+    },
+    {
+      "source": "america",
+      "target": "secure",
+      "weight": 78
+    },
+    {
+      "source": "border",
+      "target": "champion",
+      "weight": 78
+    },
+    {
+      "source": "champion",
+      "target": "secure",
+      "weight": 78
+    },
+    {
+      "source": "district",
+      "target": "state",
+      "weight": 78
+    },
+    {
+      "source": "election",
+      "target": "stop",
+      "weight": 78
+    },
+    {
+      "source": "crime",
+      "target": "tirelessly",
+      "weight": 77
+    },
+    {
+      "source": "migrant",
+      "target": "tirelessly",
+      "weight": 77
+    },
+    {
+      "source": "champion",
+      "target": "protect",
+      "weight": 76
+    },
+    {
+      "source": "america",
+      "target": "keep",
+      "weight": 75
+    },
+    {
+      "source": "protect",
+      "target": "stop",
+      "weight": 75
+    },
+    {
+      "source": "champion",
+      "target": "keep",
+      "weight": 74
+    },
+    {
+      "source": "champion",
+      "target": "election",
+      "weight": 73
+    },
+    {
+      "source": "crime",
+      "target": "election",
+      "weight": 73
+    },
+    {
+      "source": "election",
+      "target": "migrant",
+      "weight": 73
+    },
+    {
+      "source": "state",
+      "target": "tirelessly",
+      "weight": 73
+    },
+    {
+      "source": "america",
+      "target": "protect",
+      "weight": 72
+    },
+    {
+      "source": "border",
+      "target": "protect",
+      "weight": 72
+    },
+    {
+      "source": "champion",
+      "target": "crime",
+      "weight": 72
+    },
+    {
+      "source": "champion",
+      "target": "migrant",
+      "weight": 72
+    },
+    {
+      "source": "champion",
+      "target": "stop",
+      "weight": 72
+    },
+    {
+      "source": "protect",
+      "target": "secure",
+      "weight": 72
+    },
+    {
+      "source": "border",
+      "target": "election",
+      "weight": 71
+    },
+    {
+      "source": "border",
+      "target": "stop",
+      "weight": 71
+    },
+    {
+      "source": "election",
+      "target": "secure",
+      "weight": 71
+    },
+    {
+      "source": "secure",
+      "target": "stop",
+      "weight": 71
+    },
+    {
+      "source": "crime",
+      "target": "protect",
+      "weight": 70
+    },
+    {
+      "source": "migrant",
+      "target": "protect",
+      "weight": 70
+    },
+    {
+      "source": "america",
+      "target": "champion",
+      "weight": 68
+    },
+    {
+      "source": "keep",
+      "target": "protect",
+      "weight": 68
+    },
+    {
+      "source": "keep",
+      "target": "stop",
+      "weight": 68
+    },
+    {
+      "source": "election",
+      "target": "state",
+      "weight": 67
+    },
+    {
+      "source": "border",
+      "target": "crime",
+      "weight": 66
+    },
+    {
+      "source": "border",
+      "target": "migrant",
+      "weight": 66
+    },
+    {
+      "source": "crime",
+      "target": "secure",
+      "weight": 66
+    },
+    {
+      "source": "election",
+      "target": "keep",
+      "weight": 66
+    },
+    {
+      "source": "migrant",
+      "target": "secure",
+      "weight": 66
+    },
+    {
+      "source": "america",
+      "target": "state",
+      "weight": 64
+    },
+    {
+      "source": "state",
+      "target": "stop",
+      "weight": 64
+    },
+    {
+      "source": "america",
+      "target": "election",
+      "weight": 63
+    },
+    {
+      "source": "crime",
+      "target": "keep",
+      "weight": 63
+    },
+    {
+      "source": "keep",
+      "target": "migrant",
+      "weight": 63
+    },
+    {
+      "source": "america",
+      "target": "stop",
+      "weight": 62
+    },
+    {
+      "source": "champion",
+      "target": "state",
+      "weight": 59
+    },
+    {
+      "source": "crime",
+      "target": "state",
+      "weight": 59
+    },
+    {
+      "source": "migrant",
+      "target": "state",
+      "weight": 59
+    },
+    {
+      "source": "america",
+      "target": "crime",
+      "weight": 57
+    },
+    {
+      "source": "america",
+      "target": "migrant",
+      "weight": 57
+    },
+    {
+      "source": "border",
+      "target": "state",
+      "weight": 54
+    },
+    {
+      "source": "secure",
+      "target": "state",
+      "weight": 54
+    },
+    {
+      "source": "keep",
+      "target": "state",
+      "weight": 53
+    }
+  ]
+}

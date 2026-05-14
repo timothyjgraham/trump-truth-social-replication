@@ -1,0 +1,1575 @@
+{
+  "window_minutes": 60,
+  "stat_window_minutes": 30,
+  "bar_minutes": 5,
+  "asset": "USO",
+  "y_axis_units": "cumulative percent change vs t=0 close",
+  "n_bursts": 15,
+  "bursts": [
+    {
+      "burst_id": 1,
+      "ts_first": "2026-02-01T18:51:11.880000+00:00",
+      "ts_last": "2026-02-01T18:52:43.974000+00:00",
+      "duration_minutes": 1.53,
+      "n_posts": 7,
+      "anchor_bar_ts": "2026-02-02T18:45:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 74.79,
+      "pnl_total": -24909924.64,
+      "pnl_per_post_mean": -3558560.66,
+      "initiated_any": true,
+      "sample_post_text": "RT @realDonaldTrumpI am hearing that Bluffton City Councilman Blake Fiechter, a True America First Patriot, is considering a primary challenge against \"RINO\" S\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.3075,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.1471,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.2246,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.2942,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.2006,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.0669,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 0.2674,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": 0.5883,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 0.361,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.2407,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2139,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.2273,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 2,
+      "ts_first": "2026-02-02T14:25:44.557000+00:00",
+      "ts_last": "2026-02-02T14:25:44.557000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-02-02T18:45:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 74.79,
+      "pnl_total": -3558560.66,
+      "pnl_per_post_mean": -3558560.66,
+      "initiated_any": true,
+      "sample_post_text": "Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www.bloomberg.com/news/articles/2026-02-01/trump-says-he-welcomes-china-india-investme\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.3075,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.1471,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.2246,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.2942,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.2006,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.0669,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 0.2674,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": 0.5883,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 0.361,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.2407,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2139,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.2273,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 3,
+      "ts_first": "2026-02-02T16:58:20.088000+00:00",
+      "ts_last": "2026-02-02T16:58:20.088000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-02-02T18:45:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 74.79,
+      "pnl_total": -3558560.66,
+      "pnl_per_post_mean": -3558560.66,
+      "initiated_any": true,
+      "sample_post_text": "It was an Honor to speak with Prime Minister Modi, of India, this morning. He is one of my greatest friends and, a Powerful and Respected Leader of his Country\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.3075,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.1471,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.2246,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.2942,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.2006,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.0669,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 0.2674,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": 0.5883,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 0.361,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.2407,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2139,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.2273,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 4,
+      "ts_first": "2026-02-04T15:38:27.342000+00:00",
+      "ts_last": "2026-02-04T15:38:27.342000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-02-04T15:35:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 76.41,
+      "pnl_total": 44825.98,
+      "pnl_per_post_mean": 44825.98,
+      "initiated_any": true,
+      "sample_post_text": "I have just completed an excellent telephone conversation with President Xi, of China. It was a long and thorough call, where many important subjects were disc\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": 0.2748,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -55,
+          "cum_pct_return": 0.3926,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 0.5497,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": 0.3861,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": 0.157,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": 0.1309,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": 0.3926,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": 0.4188,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": 0.4711,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": 0.4747,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": 0.4581,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": 0.1047,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": 0.3926,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": 0.2487,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 0.445,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.2356,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.0785,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": 0.0654,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -0.0393,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.1963,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -0.0916,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.0,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2225,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.2748,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 5,
+      "ts_first": "2026-02-10T23:50:33.622000+00:00",
+      "ts_last": "2026-02-10T23:54:44.738000+00:00",
+      "duration_minutes": 4.19,
+      "n_posts": 7,
+      "anchor_bar_ts": "2026-02-10T23:50:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 77.96,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": false,
+      "sample_post_text": "Congressman Aaron Bean is a Tremendous Champion for Florida's 4th Congressional District! As a Member of the POWERFUL Ways & Means Committee, Aaron knows the A\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": -0.3976,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 0.0921,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": -0.0449,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": -0.0513,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": 0.0898,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": -0.0513,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": 0.1154,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": -0.0513,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": 0.1154,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -0.0128,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": 0.1154,
+          "in_stat_window": true
+        }
+      ]
+    },
+    {
+      "burst_id": 6,
+      "ts_first": "2026-02-17T01:01:35.883000+00:00",
+      "ts_last": "2026-02-17T01:03:14.276000+00:00",
+      "duration_minutes": 1.64,
+      "n_posts": 4,
+      "anchor_bar_ts": "2026-02-17T09:00:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 76.62,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas' 38th Congressional District. He is supported by many MAGA Patriots, in\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.1566,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.0783,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 0.0131,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.1697,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 0.2219,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": 0.0261,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 0.0131,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.0783,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 0.1175,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.248,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2349,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.509,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 7,
+      "ts_first": "2026-02-17T02:08:23.823000+00:00",
+      "ts_last": "2026-02-17T02:12:38.961000+00:00",
+      "duration_minutes": 4.25,
+      "n_posts": 19,
+      "anchor_bar_ts": "2026-02-17T09:00:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 76.62,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas' 1st Congressional District! Nathaniel has an incredible Record of\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.1566,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.0783,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 0.0131,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.1697,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 0.2219,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": 0.0261,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 0.0131,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.0783,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 0.1175,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 0.248,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 0.2349,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 0.509,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 8,
+      "ts_first": "2026-02-17T15:03:59.984000+00:00",
+      "ts_last": "2026-02-17T15:03:59.984000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-02-17T15:00:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 76.14,
+      "pnl_total": 1597362.73,
+      "pnl_per_post_mean": 1597362.73,
+      "initiated_any": false,
+      "sample_post_text": "RT @realDonaldTrumpIt is my Great Honor to endorse America First Patriot, Clay Fuller, who is running to represent the wonderful people of Georgia's 14th Congr\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": 0.0263,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -55,
+          "cum_pct_return": -0.0667,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 0.2242,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": 0.1313,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": 0.394,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": 0.1576,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": -0.1182,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": -0.1707,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -0.3152,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": 0.0394,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.1839,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.4794,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.5188,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.9456,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.9325,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -1.0901,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -1.1164,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -1.077,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -1.1558,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -1.0113,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -0.88,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 9,
+      "ts_first": "2026-02-19T01:26:34.705000+00:00",
+      "ts_last": "2026-02-19T01:26:34.705000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-02-19T09:00:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 80.53,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "It is my Great Honor to nominate Justin Smith to serve as Judge on the United States Court of Appeals for the Eighth Circuit in Missouri. Justin is a very Smar\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.1614,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.1863,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.3725,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.534,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.6706,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.5588,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -0.4719,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.6581,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -0.6457,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -0.6333,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -0.5588,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -0.5961,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 10,
+      "ts_first": "2026-03-03T22:04:29.988000+00:00",
+      "ts_last": "2026-03-03T22:04:29.988000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-03-03T22:00:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 91.2689,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "It is my Great Honor to endorse Aaron Flint, who is running to represent the tremendous people of Montana's 1st Congressional District. Aaron is a MAGA Warrior\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": -1.0178,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -55,
+          "cum_pct_return": -0.5795,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": -0.4042,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": -0.5258,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": -0.6124,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": -0.4371,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": -0.3987,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": -0.4486,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": -0.1851,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": 0.0669,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": -0.2546,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -0.196,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.1303,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": 0.0231,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.3604,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.102,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.1193,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.2015,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -0.2289,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.1851,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -0.129,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -0.1018,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -0.0755,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -0.459,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 11,
+      "ts_first": "2026-03-10T00:30:40.041000+00:00",
+      "ts_last": "2026-03-10T00:30:40.041000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-03-10T08:00:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 104.53,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "If Iran does anything that stops the flow of Oil within the Strait of Hormuz, they will be hit by the United States of America TWENTY TIMES HARDER than they ha\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": 0.5931,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": 0.8419,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 1.0045,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.6123,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 1.215,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": 1.9229,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": 2.3343,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": 1.9707,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": 1.6837,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": 2.3056,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": 2.6691,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": 1.9516,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 12,
+      "ts_first": "2026-03-21T16:52:28.021000+00:00",
+      "ts_last": "2026-03-21T16:52:28.021000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-03-23T08:00:00+00:00",
+      "anchored_to_next_session": true,
+      "anchor_price": 125.48,
+      "pnl_total": 0.0,
+      "pnl_per_post_mean": 0.0,
+      "initiated_any": true,
+      "sample_post_text": "Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only ge\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.271,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.4144,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.4622,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.4144,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": -0.3028,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.9962,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -1.036,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.9882,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -1.0679,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -1.1476,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -1.3548,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -1.4982,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 13,
+      "ts_first": "2026-03-23T14:29:33.266000+00:00",
+      "ts_last": "2026-03-23T14:29:33.266000+00:00",
+      "duration_minutes": 0.0,
+      "n_posts": 1,
+      "anchor_bar_ts": "2026-03-23T14:25:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 111.46,
+      "pnl_total": -31925405.59,
+      "pnl_per_post_mean": -31925405.59,
+      "initiated_any": true,
+      "sample_post_text": "RT @realDonaldTrumpI AM PLEASED TO REPORT THAT THE UNITED STATES OF AMERICA, AND THE COUNTRY OF IRAN, HAVE HAD, OVER THE LAST TWO DAYS, VERY GOOD AND PRODUCTIV\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -55,
+          "cum_pct_return": 1.3547,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 0.4172,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": 0.1166,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": -0.7985,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": -0.4396,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": -0.3678,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": -1.1484,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": -0.8478,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": -0.5293,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": -0.9959,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -1.2561,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.0314,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": 0.2243,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 0.7894,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.0987,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 0.1878,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.2063,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -3.0406,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -3.6515,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -4.0734,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -2.9248,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -3.3285,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -2.7813,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 14,
+      "ts_first": "2026-03-24T19:45:10.326000+00:00",
+      "ts_last": "2026-03-24T19:57:58.291000+00:00",
+      "duration_minutes": 12.8,
+      "n_posts": 7,
+      "anchor_bar_ts": "2026-03-24T19:45:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 114.135,
+      "pnl_total": 9273343.81,
+      "pnl_per_post_mean": 1324763.4,
+      "initiated_any": true,
+      "sample_post_text": "Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against \"RINO\" State Senator Travis Holdman, in Indiana's 19th Senate Distric\u2026",
+      "is_apr07_burst": false,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": 0.4249,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -55,
+          "cum_pct_return": 0.1533,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 0.2147,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": -0.1577,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": -0.276,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": -0.1752,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": -0.0832,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": -0.0921,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": 0.0569,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": 0.0044,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": 0.2234,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -0.0131,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": 0.1314,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": 0.3505,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": 0.2497,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": 0.3024,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 0.3801,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.2675,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -3.9558,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -3.0096,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -2.5454,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -3.7038,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -2.8957,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -3.6141,
+          "in_stat_window": false
+        }
+      ]
+    },
+    {
+      "burst_id": 15,
+      "ts_first": "2026-04-07T20:13:09.030000+00:00",
+      "ts_last": "2026-04-07T20:27:06.893000+00:00",
+      "duration_minutes": 13.96,
+      "n_posts": 28,
+      "anchor_bar_ts": "2026-04-07T20:10:00+00:00",
+      "anchored_to_next_session": false,
+      "anchor_price": 137.76,
+      "pnl_total": 212918723.61,
+      "pnl_per_post_mean": 7604240.13,
+      "initiated_any": true,
+      "sample_post_text": "State Representative Jim Pressel is a Tremendous Champion for the incredible people of Indiana's 20th State House District! A successful Businessman, Jim knows\u2026",
+      "is_apr07_burst": true,
+      "series": [
+        {
+          "minute_offset": -60,
+          "cum_pct_return": 2.7221,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -55,
+          "cum_pct_return": 0.7404,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -50,
+          "cum_pct_return": 1.3428,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -45,
+          "cum_pct_return": 1.2413,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -40,
+          "cum_pct_return": 1.6151,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -35,
+          "cum_pct_return": 1.5171,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": -30,
+          "cum_pct_return": 1.3791,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -25,
+          "cum_pct_return": 0.0653,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -20,
+          "cum_pct_return": 0.2395,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -15,
+          "cum_pct_return": 0.2395,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -10,
+          "cum_pct_return": -0.6242,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": -5,
+          "cum_pct_return": -0.1813,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 0,
+          "cum_pct_return": 0.0,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 5,
+          "cum_pct_return": -0.2392,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 10,
+          "cum_pct_return": -0.0436,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 15,
+          "cum_pct_return": -0.4864,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 20,
+          "cum_pct_return": -0.7985,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 25,
+          "cum_pct_return": 0.0719,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 30,
+          "cum_pct_return": -0.6098,
+          "in_stat_window": true
+        },
+        {
+          "minute_offset": 35,
+          "cum_pct_return": -0.4646,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 40,
+          "cum_pct_return": -0.4791,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 45,
+          "cum_pct_return": -0.9364,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 50,
+          "cum_pct_return": -1.2413,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 55,
+          "cum_pct_return": -1.0961,
+          "in_stat_window": false
+        },
+        {
+          "minute_offset": 60,
+          "cum_pct_return": -1.1687,
+          "in_stat_window": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "n_posts_total": 1341,
+  "n_posts_with_any_topic": 463,
+  "n_posts_multi_topic": 233,
+  "nodes": [
+    {
+      "id": "topic_iran_military",
+      "label": "Iran / Military",
+      "post_count": 284
+    },
+    {
+      "id": "topic_market_economy",
+      "label": "Markets / Economy",
+      "post_count": 179
+    },
+    {
+      "id": "topic_energy_oil",
+      "label": "Energy / Oil",
+      "post_count": 173
+    },
+    {
+      "id": "topic_tariff_trade",
+      "label": "Tariffs / Trade",
+      "post_count": 95
+    },
+    {
+      "id": "topic_djt_media",
+      "label": "DJT / Media",
+      "post_count": 91
+    },
+    {
+      "id": "topic_china",
+      "label": "China",
+      "post_count": 19
+    },
+    {
+      "id": "topic_fed_rates",
+      "label": "Fed / Rates",
+      "post_count": 17
+    },
+    {
+      "id": "topic_crypto",
+      "label": "Crypto",
+      "post_count": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "topic_energy_oil",
+      "target": "topic_iran_military",
+      "weight": 162
+    },
+    {
+      "source": "topic_iran_military",
+      "target": "topic_market_economy",
+      "weight": 139
+    },
+    {
+      "source": "topic_energy_oil",
+      "target": "topic_market_economy",
+      "weight": 136
+    },
+    {
+      "source": "topic_iran_military",
+      "target": "topic_tariff_trade",
+      "weight": 26
+    },
+    {
+      "source": "topic_market_economy",
+      "target": "topic_tariff_trade",
+      "weight": 19
+    },
+    {
+      "source": "topic_djt_media",
+      "target": "topic_iran_military",
+      "weight": 19
+    },
+    {
+      "source": "topic_energy_oil",
+      "target": "topic_tariff_trade",
+      "weight": 12
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_tariff_trade",
+      "weight": 8
+    },
+    {
+      "source": "topic_fed_rates",
+      "target": "topic_market_economy",
+      "weight": 7
+    },
+    {
+      "source": "topic_djt_media",
+      "target": "topic_tariff_trade",
+      "weight": 7
+    },
+    {
+      "source": "topic_djt_media",
+      "target": "topic_fed_rates",
+      "weight": 6
+    },
+    {
+      "source": "topic_fed_rates",
+      "target": "topic_iran_military",
+      "weight": 5
+    },
+    {
+      "source": "topic_energy_oil",
+      "target": "topic_fed_rates",
+      "weight": 5
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_iran_military",
+      "weight": 5
+    },
+    {
+      "source": "topic_djt_media",
+      "target": "topic_market_economy",
+      "weight": 4
+    },
+    {
+      "source": "topic_fed_rates",
+      "target": "topic_tariff_trade",
+      "weight": 3
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_energy_oil",
+      "weight": 3
+    },
+    {
+      "source": "topic_djt_media",
+      "target": "topic_energy_oil",
+      "weight": 3
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_djt_media",
+      "weight": 2
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_market_economy",
+      "weight": 1
+    },
+    {
+      "source": "topic_crypto",
+      "target": "topic_tariff_trade",
+      "weight": 1
+    },
+    {
+      "source": "topic_china",
+      "target": "topic_crypto",
+      "weight": 1
+    }
+  ]
+}

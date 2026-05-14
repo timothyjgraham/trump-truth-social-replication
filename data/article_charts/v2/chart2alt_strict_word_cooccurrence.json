@@ -1,0 +1,2012 @@
+{
+  "universe": "posts containing explicit oil/Iran/Hormuz/crude/etc. terms",
+  "n_posts": 121,
+  "n_words_kept": 30,
+  "n_edges_kept": 370,
+  "top_k": 30,
+  "min_edge_weight": 3,
+  "nodes": [
+    {
+      "id": "iran",
+      "label": "iran",
+      "post_count": 91
+    },
+    {
+      "id": "president",
+      "label": "president",
+      "post_count": 76
+    },
+    {
+      "id": "trump",
+      "label": "trump",
+      "post_count": 74
+    },
+    {
+      "id": "donald",
+      "label": "donald",
+      "post_count": 60
+    },
+    {
+      "id": "military",
+      "label": "military",
+      "post_count": 39
+    },
+    {
+      "id": "states",
+      "label": "states",
+      "post_count": 38
+    },
+    {
+      "id": "united",
+      "label": "united",
+      "post_count": 38
+    },
+    {
+      "id": "america",
+      "label": "america",
+      "post_count": 34
+    },
+    {
+      "id": "world",
+      "label": "world",
+      "post_count": 26
+    },
+    {
+      "id": "country",
+      "label": "country",
+      "post_count": 25
+    },
+    {
+      "id": "now",
+      "label": "now",
+      "post_count": 25
+    },
+    {
+      "id": "oil",
+      "label": "oil",
+      "post_count": 23
+    },
+    {
+      "id": "strait",
+      "label": "strait",
+      "post_count": 23
+    },
+    {
+      "id": "hormuz",
+      "label": "hormuz",
+      "post_count": 22
+    },
+    {
+      "id": "middle",
+      "label": "middle",
+      "post_count": 20
+    },
+    {
+      "id": "east",
+      "label": "east",
+      "post_count": 19
+    },
+    {
+      "id": "regime",
+      "label": "regime",
+      "post_count": 18
+    },
+    {
+      "id": "deal",
+      "label": "deal",
+      "post_count": 17
+    },
+    {
+      "id": "nuclear",
+      "label": "nuclear",
+      "post_count": 17
+    },
+    {
+      "id": "again",
+      "label": "again",
+      "post_count": 16
+    },
+    {
+      "id": "far",
+      "label": "far",
+      "post_count": 16
+    },
+    {
+      "id": "djt",
+      "label": "djt",
+      "post_count": 15
+    },
+    {
+      "id": "war",
+      "label": "war",
+      "post_count": 15
+    },
+    {
+      "id": "about",
+      "label": "about",
+      "post_count": 14
+    },
+    {
+      "id": "american",
+      "label": "american",
+      "post_count": 14
+    },
+    {
+      "id": "attack",
+      "label": "attack",
+      "post_count": 14
+    },
+    {
+      "id": "iran's",
+      "label": "iran's",
+      "post_count": 14
+    },
+    {
+      "id": "left",
+      "label": "left",
+      "post_count": 14
+    },
+    {
+      "id": "only",
+      "label": "only",
+      "post_count": 13
+    },
+    {
+      "id": "else",
+      "label": "else",
+      "post_count": 12
+    }
+  ],
+  "links": [
+    {
+      "source": "iran",
+      "target": "president",
+      "weight": 63
+    },
+    {
+      "source": "president",
+      "target": "trump",
+      "weight": 61
+    },
+    {
+      "source": "donald",
+      "target": "president",
+      "weight": 60
+    },
+    {
+      "source": "donald",
+      "target": "trump",
+      "weight": 59
+    },
+    {
+      "source": "iran",
+      "target": "trump",
+      "weight": 57
+    },
+    {
+      "source": "donald",
+      "target": "iran",
+      "weight": 49
+    },
+    {
+      "source": "states",
+      "target": "united",
+      "weight": 37
+    },
+    {
+      "source": "president",
+      "target": "states",
+      "weight": 35
+    },
+    {
+      "source": "president",
+      "target": "united",
+      "weight": 35
+    },
+    {
+      "source": "military",
+      "target": "president",
+      "weight": 34
+    },
+    {
+      "source": "iran",
+      "target": "military",
+      "weight": 31
+    },
+    {
+      "source": "states",
+      "target": "trump",
+      "weight": 31
+    },
+    {
+      "source": "donald",
+      "target": "states",
+      "weight": 30
+    },
+    {
+      "source": "iran",
+      "target": "states",
+      "weight": 30
+    },
+    {
+      "source": "iran",
+      "target": "united",
+      "weight": 30
+    },
+    {
+      "source": "trump",
+      "target": "united",
+      "weight": 30
+    },
+    {
+      "source": "donald",
+      "target": "united",
+      "weight": 29
+    },
+    {
+      "source": "america",
+      "target": "president",
+      "weight": 27
+    },
+    {
+      "source": "donald",
+      "target": "military",
+      "weight": 26
+    },
+    {
+      "source": "military",
+      "target": "trump",
+      "weight": 26
+    },
+    {
+      "source": "america",
+      "target": "states",
+      "weight": 25
+    },
+    {
+      "source": "america",
+      "target": "united",
+      "weight": 25
+    },
+    {
+      "source": "america",
+      "target": "iran",
+      "weight": 24
+    },
+    {
+      "source": "country",
+      "target": "president",
+      "weight": 22
+    },
+    {
+      "source": "hormuz",
+      "target": "strait",
+      "weight": 22
+    },
+    {
+      "source": "president",
+      "target": "world",
+      "weight": 22
+    },
+    {
+      "source": "america",
+      "target": "donald",
+      "weight": 21
+    },
+    {
+      "source": "america",
+      "target": "trump",
+      "weight": 21
+    },
+    {
+      "source": "iran",
+      "target": "world",
+      "weight": 21
+    },
+    {
+      "source": "iran",
+      "target": "middle",
+      "weight": 20
+    },
+    {
+      "source": "president",
+      "target": "strait",
+      "weight": 20
+    },
+    {
+      "source": "america",
+      "target": "military",
+      "weight": 19
+    },
+    {
+      "source": "donald",
+      "target": "world",
+      "weight": 19
+    },
+    {
+      "source": "east",
+      "target": "iran",
+      "weight": 19
+    },
+    {
+      "source": "east",
+      "target": "middle",
+      "weight": 19
+    },
+    {
+      "source": "east",
+      "target": "trump",
+      "weight": 19
+    },
+    {
+      "source": "hormuz",
+      "target": "president",
+      "weight": 19
+    },
+    {
+      "source": "iran",
+      "target": "now",
+      "weight": 19
+    },
+    {
+      "source": "middle",
+      "target": "trump",
+      "weight": 19
+    },
+    {
+      "source": "military",
+      "target": "states",
+      "weight": 19
+    },
+    {
+      "source": "military",
+      "target": "united",
+      "weight": 19
+    },
+    {
+      "source": "now",
+      "target": "president",
+      "weight": 19
+    },
+    {
+      "source": "trump",
+      "target": "world",
+      "weight": 19
+    },
+    {
+      "source": "country",
+      "target": "iran",
+      "weight": 18
+    },
+    {
+      "source": "country",
+      "target": "military",
+      "weight": 18
+    },
+    {
+      "source": "country",
+      "target": "trump",
+      "weight": 18
+    },
+    {
+      "source": "donald",
+      "target": "east",
+      "weight": 18
+    },
+    {
+      "source": "donald",
+      "target": "middle",
+      "weight": 18
+    },
+    {
+      "source": "donald",
+      "target": "strait",
+      "weight": 18
+    },
+    {
+      "source": "east",
+      "target": "president",
+      "weight": 18
+    },
+    {
+      "source": "iran",
+      "target": "strait",
+      "weight": 18
+    },
+    {
+      "source": "middle",
+      "target": "president",
+      "weight": 18
+    },
+    {
+      "source": "now",
+      "target": "trump",
+      "weight": 18
+    },
+    {
+      "source": "strait",
+      "target": "trump",
+      "weight": 18
+    },
+    {
+      "source": "america",
+      "target": "country",
+      "weight": 17
+    },
+    {
+      "source": "country",
+      "target": "donald",
+      "weight": 17
+    },
+    {
+      "source": "donald",
+      "target": "hormuz",
+      "weight": 17
+    },
+    {
+      "source": "donald",
+      "target": "now",
+      "weight": 17
+    },
+    {
+      "source": "hormuz",
+      "target": "iran",
+      "weight": 17
+    },
+    {
+      "source": "hormuz",
+      "target": "trump",
+      "weight": 17
+    },
+    {
+      "source": "iran",
+      "target": "nuclear",
+      "weight": 16
+    },
+    {
+      "source": "iran",
+      "target": "regime",
+      "weight": 16
+    },
+    {
+      "source": "oil",
+      "target": "president",
+      "weight": 16
+    },
+    {
+      "source": "oil",
+      "target": "trump",
+      "weight": 16
+    },
+    {
+      "source": "country",
+      "target": "states",
+      "weight": 15
+    },
+    {
+      "source": "djt",
+      "target": "president",
+      "weight": 15
+    },
+    {
+      "source": "about",
+      "target": "president",
+      "weight": 14
+    },
+    {
+      "source": "about",
+      "target": "trump",
+      "weight": 14
+    },
+    {
+      "source": "country",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "deal",
+      "target": "president",
+      "weight": 14
+    },
+    {
+      "source": "donald",
+      "target": "oil",
+      "weight": 14
+    },
+    {
+      "source": "hormuz",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "nuclear",
+      "target": "president",
+      "weight": 14
+    },
+    {
+      "source": "nuclear",
+      "target": "trump",
+      "weight": 14
+    },
+    {
+      "source": "strait",
+      "target": "united",
+      "weight": 14
+    },
+    {
+      "source": "about",
+      "target": "donald",
+      "weight": 13
+    },
+    {
+      "source": "deal",
+      "target": "iran",
+      "weight": 13
+    },
+    {
+      "source": "deal",
+      "target": "trump",
+      "weight": 13
+    },
+    {
+      "source": "djt",
+      "target": "iran",
+      "weight": 13
+    },
+    {
+      "source": "hormuz",
+      "target": "states",
+      "weight": 13
+    },
+    {
+      "source": "military",
+      "target": "world",
+      "weight": 13
+    },
+    {
+      "source": "oil",
+      "target": "united",
+      "weight": 13
+    },
+    {
+      "source": "regime",
+      "target": "trump",
+      "weight": 13
+    },
+    {
+      "source": "states",
+      "target": "strait",
+      "weight": 13
+    },
+    {
+      "source": "again",
+      "target": "america",
+      "weight": 12
+    },
+    {
+      "source": "again",
+      "target": "president",
+      "weight": 12
+    },
+    {
+      "source": "america",
+      "target": "far",
+      "weight": 12
+    },
+    {
+      "source": "america",
+      "target": "hormuz",
+      "weight": 12
+    },
+    {
+      "source": "america",
+      "target": "strait",
+      "weight": 12
+    },
+    {
+      "source": "attack",
+      "target": "iran",
+      "weight": 12
+    },
+    {
+      "source": "donald",
+      "target": "nuclear",
+      "weight": 12
+    },
+    {
+      "source": "east",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "east",
+      "target": "united",
+      "weight": 12
+    },
+    {
+      "source": "far",
+      "target": "iran",
+      "weight": 12
+    },
+    {
+      "source": "far",
+      "target": "president",
+      "weight": 12
+    },
+    {
+      "source": "hormuz",
+      "target": "military",
+      "weight": 12
+    },
+    {
+      "source": "iran's",
+      "target": "trump",
+      "weight": 12
+    },
+    {
+      "source": "middle",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "middle",
+      "target": "united",
+      "weight": 12
+    },
+    {
+      "source": "military",
+      "target": "strait",
+      "weight": 12
+    },
+    {
+      "source": "oil",
+      "target": "states",
+      "weight": 12
+    },
+    {
+      "source": "president",
+      "target": "regime",
+      "weight": 12
+    },
+    {
+      "source": "states",
+      "target": "world",
+      "weight": 12
+    },
+    {
+      "source": "united",
+      "target": "world",
+      "weight": 12
+    },
+    {
+      "source": "about",
+      "target": "country",
+      "weight": 11
+    },
+    {
+      "source": "again",
+      "target": "donald",
+      "weight": 11
+    },
+    {
+      "source": "again",
+      "target": "iran",
+      "weight": 11
+    },
+    {
+      "source": "again",
+      "target": "trump",
+      "weight": 11
+    },
+    {
+      "source": "america",
+      "target": "oil",
+      "weight": 11
+    },
+    {
+      "source": "attack",
+      "target": "donald",
+      "weight": 11
+    },
+    {
+      "source": "attack",
+      "target": "president",
+      "weight": 11
+    },
+    {
+      "source": "attack",
+      "target": "trump",
+      "weight": 11
+    },
+    {
+      "source": "donald",
+      "target": "else",
+      "weight": 11
+    },
+    {
+      "source": "donald",
+      "target": "far",
+      "weight": 11
+    },
+    {
+      "source": "donald",
+      "target": "regime",
+      "weight": 11
+    },
+    {
+      "source": "else",
+      "target": "president",
+      "weight": 11
+    },
+    {
+      "source": "far",
+      "target": "trump",
+      "weight": 11
+    },
+    {
+      "source": "iran",
+      "target": "left",
+      "weight": 11
+    },
+    {
+      "source": "iran",
+      "target": "oil",
+      "weight": 11
+    },
+    {
+      "source": "iran",
+      "target": "war",
+      "weight": 11
+    },
+    {
+      "source": "left",
+      "target": "president",
+      "weight": 11
+    },
+    {
+      "source": "regime",
+      "target": "states",
+      "weight": 11
+    },
+    {
+      "source": "regime",
+      "target": "united",
+      "weight": 11
+    },
+    {
+      "source": "trump",
+      "target": "war",
+      "weight": 11
+    },
+    {
+      "source": "about",
+      "target": "states",
+      "weight": 10
+    },
+    {
+      "source": "about",
+      "target": "united",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "american",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "east",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "left",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "middle",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "now",
+      "weight": 10
+    },
+    {
+      "source": "america",
+      "target": "world",
+      "weight": 10
+    },
+    {
+      "source": "american",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "american",
+      "target": "now",
+      "weight": 10
+    },
+    {
+      "source": "country",
+      "target": "left",
+      "weight": 10
+    },
+    {
+      "source": "deal",
+      "target": "donald",
+      "weight": 10
+    },
+    {
+      "source": "east",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "else",
+      "target": "iran",
+      "weight": 10
+    },
+    {
+      "source": "else",
+      "target": "states",
+      "weight": 10
+    },
+    {
+      "source": "else",
+      "target": "trump",
+      "weight": 10
+    },
+    {
+      "source": "else",
+      "target": "united",
+      "weight": 10
+    },
+    {
+      "source": "far",
+      "target": "states",
+      "weight": 10
+    },
+    {
+      "source": "far",
+      "target": "united",
+      "weight": 10
+    },
+    {
+      "source": "iran's",
+      "target": "president",
+      "weight": 10
+    },
+    {
+      "source": "left",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "middle",
+      "target": "military",
+      "weight": 10
+    },
+    {
+      "source": "military",
+      "target": "now",
+      "weight": 10
+    },
+    {
+      "source": "military",
+      "target": "nuclear",
+      "weight": 10
+    },
+    {
+      "source": "now",
+      "target": "states",
+      "weight": 10
+    },
+    {
+      "source": "now",
+      "target": "united",
+      "weight": 10
+    },
+    {
+      "source": "nuclear",
+      "target": "world",
+      "weight": 10
+    },
+    {
+      "source": "president",
+      "target": "war",
+      "weight": 10
+    },
+    {
+      "source": "states",
+      "target": "war",
+      "weight": 10
+    },
+    {
+      "source": "united",
+      "target": "war",
+      "weight": 10
+    },
+    {
+      "source": "about",
+      "target": "america",
+      "weight": 9
+    },
+    {
+      "source": "about",
+      "target": "iran",
+      "weight": 9
+    },
+    {
+      "source": "again",
+      "target": "states",
+      "weight": 9
+    },
+    {
+      "source": "again",
+      "target": "united",
+      "weight": 9
+    },
+    {
+      "source": "america",
+      "target": "attack",
+      "weight": 9
+    },
+    {
+      "source": "america",
+      "target": "else",
+      "weight": 9
+    },
+    {
+      "source": "attack",
+      "target": "states",
+      "weight": 9
+    },
+    {
+      "source": "attack",
+      "target": "united",
+      "weight": 9
+    },
+    {
+      "source": "country",
+      "target": "east",
+      "weight": 9
+    },
+    {
+      "source": "country",
+      "target": "far",
+      "weight": 9
+    },
+    {
+      "source": "country",
+      "target": "middle",
+      "weight": 9
+    },
+    {
+      "source": "donald",
+      "target": "iran's",
+      "weight": 9
+    },
+    {
+      "source": "donald",
+      "target": "war",
+      "weight": 9
+    },
+    {
+      "source": "else",
+      "target": "military",
+      "weight": 9
+    },
+    {
+      "source": "far",
+      "target": "military",
+      "weight": 9
+    },
+    {
+      "source": "hormuz",
+      "target": "oil",
+      "weight": 9
+    },
+    {
+      "source": "iran",
+      "target": "only",
+      "weight": 9
+    },
+    {
+      "source": "iran's",
+      "target": "regime",
+      "weight": 9
+    },
+    {
+      "source": "left",
+      "target": "trump",
+      "weight": 9
+    },
+    {
+      "source": "military",
+      "target": "regime",
+      "weight": 9
+    },
+    {
+      "source": "now",
+      "target": "world",
+      "weight": 9
+    },
+    {
+      "source": "nuclear",
+      "target": "states",
+      "weight": 9
+    },
+    {
+      "source": "nuclear",
+      "target": "united",
+      "weight": 9
+    },
+    {
+      "source": "oil",
+      "target": "strait",
+      "weight": 9
+    },
+    {
+      "source": "only",
+      "target": "president",
+      "weight": 9
+    },
+    {
+      "source": "regime",
+      "target": "world",
+      "weight": 9
+    },
+    {
+      "source": "about",
+      "target": "military",
+      "weight": 8
+    },
+    {
+      "source": "again",
+      "target": "country",
+      "weight": 8
+    },
+    {
+      "source": "america",
+      "target": "regime",
+      "weight": 8
+    },
+    {
+      "source": "american",
+      "target": "country",
+      "weight": 8
+    },
+    {
+      "source": "american",
+      "target": "president",
+      "weight": 8
+    },
+    {
+      "source": "attack",
+      "target": "country",
+      "weight": 8
+    },
+    {
+      "source": "attack",
+      "target": "far",
+      "weight": 8
+    },
+    {
+      "source": "attack",
+      "target": "military",
+      "weight": 8
+    },
+    {
+      "source": "country",
+      "target": "now",
+      "weight": 8
+    },
+    {
+      "source": "country",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "deal",
+      "target": "states",
+      "weight": 8
+    },
+    {
+      "source": "deal",
+      "target": "united",
+      "weight": 8
+    },
+    {
+      "source": "djt",
+      "target": "military",
+      "weight": 8
+    },
+    {
+      "source": "donald",
+      "target": "only",
+      "weight": 8
+    },
+    {
+      "source": "east",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "else",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "iran",
+      "target": "iran's",
+      "weight": 8
+    },
+    {
+      "source": "iran's",
+      "target": "states",
+      "weight": 8
+    },
+    {
+      "source": "iran's",
+      "target": "united",
+      "weight": 8
+    },
+    {
+      "source": "middle",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "military",
+      "target": "oil",
+      "weight": 8
+    },
+    {
+      "source": "military",
+      "target": "war",
+      "weight": 8
+    },
+    {
+      "source": "oil",
+      "target": "world",
+      "weight": 8
+    },
+    {
+      "source": "only",
+      "target": "trump",
+      "weight": 8
+    },
+    {
+      "source": "about",
+      "target": "attack",
+      "weight": 7
+    },
+    {
+      "source": "again",
+      "target": "far",
+      "weight": 7
+    },
+    {
+      "source": "again",
+      "target": "now",
+      "weight": 7
+    },
+    {
+      "source": "america",
+      "target": "iran's",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "east",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "middle",
+      "weight": 7
+    },
+    {
+      "source": "attack",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "country",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "country",
+      "target": "war",
+      "weight": 7
+    },
+    {
+      "source": "donald",
+      "target": "left",
+      "weight": 7
+    },
+    {
+      "source": "east",
+      "target": "far",
+      "weight": 7
+    },
+    {
+      "source": "east",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "else",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "far",
+      "target": "middle",
+      "weight": 7
+    },
+    {
+      "source": "far",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "far",
+      "target": "regime",
+      "weight": 7
+    },
+    {
+      "source": "far",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "hormuz",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "iran's",
+      "target": "military",
+      "weight": 7
+    },
+    {
+      "source": "middle",
+      "target": "nuclear",
+      "weight": 7
+    },
+    {
+      "source": "military",
+      "target": "only",
+      "weight": 7
+    },
+    {
+      "source": "nuclear",
+      "target": "regime",
+      "weight": 7
+    },
+    {
+      "source": "strait",
+      "target": "world",
+      "weight": 7
+    },
+    {
+      "source": "about",
+      "target": "left",
+      "weight": 6
+    },
+    {
+      "source": "about",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "about",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "again",
+      "target": "attack",
+      "weight": 6
+    },
+    {
+      "source": "again",
+      "target": "military",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "djt",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "only",
+      "weight": 6
+    },
+    {
+      "source": "america",
+      "target": "war",
+      "weight": 6
+    },
+    {
+      "source": "american",
+      "target": "donald",
+      "weight": 6
+    },
+    {
+      "source": "american",
+      "target": "iran",
+      "weight": 6
+    },
+    {
+      "source": "american",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "attack",
+      "target": "left",
+      "weight": 6
+    },
+    {
+      "source": "attack",
+      "target": "only",
+      "weight": 6
+    },
+    {
+      "source": "attack",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "else",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "only",
+      "weight": 6
+    },
+    {
+      "source": "country",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "djt",
+      "target": "united",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "else",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "hormuz",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "iran's",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "east",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "else",
+      "target": "hormuz",
+      "weight": 6
+    },
+    {
+      "source": "else",
+      "target": "iran's",
+      "weight": 6
+    },
+    {
+      "source": "else",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "else",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "else",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "far",
+      "target": "hormuz",
+      "weight": 6
+    },
+    {
+      "source": "far",
+      "target": "left",
+      "weight": 6
+    },
+    {
+      "source": "far",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "far",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "iran's",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "hormuz",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "iran's",
+      "target": "middle",
+      "weight": 6
+    },
+    {
+      "source": "iran's",
+      "target": "nuclear",
+      "weight": 6
+    },
+    {
+      "source": "iran's",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "iran's",
+      "target": "world",
+      "weight": 6
+    },
+    {
+      "source": "middle",
+      "target": "regime",
+      "weight": 6
+    },
+    {
+      "source": "middle",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "now",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "now",
+      "target": "only",
+      "weight": 6
+    },
+    {
+      "source": "nuclear",
+      "target": "oil",
+      "weight": 6
+    },
+    {
+      "source": "nuclear",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "regime",
+      "target": "strait",
+      "weight": 6
+    },
+    {
+      "source": "about",
+      "target": "again",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "east",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "else",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "far",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "middle",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "now",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "regime",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "world",
+      "weight": 5
+    },
+    {
+      "source": "again",
+      "target": "american",
+      "weight": 5
+    },
+    {
+      "source": "again",
+      "target": "deal",
+      "weight": 5
+    },
+    {
+      "source": "again",
+      "target": "left",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "left",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "only",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "trump",
+      "weight": 5
+    },
+    {
+      "source": "american",
+      "target": "united",
+      "weight": 5
+    },
+    {
+      "source": "attack",
+      "target": "now",
+      "weight": 5
+    },
+    {
+      "source": "attack",
+      "target": "world",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "deal",
+      "weight": 5
+    },
+    {
+      "source": "country",
+      "target": "djt",
+      "weight": 5
+    },
+    {
+      "source": "deal",
+      "target": "military",
+      "weight": 5
+    },
+    {
+      "source": "djt",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "east",
+      "target": "now",
+      "weight": 5
+    },
+    {
+      "source": "far",
+      "target": "iran's",
+      "weight": 5
+    },
+    {
+      "source": "left",
+      "target": "now",
+      "weight": 5
+    },
+    {
+      "source": "left",
+      "target": "regime",
+      "weight": 5
+    },
+    {
+      "source": "left",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "left",
+      "target": "united",
+      "weight": 5
+    },
+    {
+      "source": "middle",
+      "target": "now",
+      "weight": 5
+    },
+    {
+      "source": "now",
+      "target": "nuclear",
+      "weight": 5
+    },
+    {
+      "source": "now",
+      "target": "regime",
+      "weight": 5
+    },
+    {
+      "source": "only",
+      "target": "states",
+      "weight": 5
+    },
+    {
+      "source": "only",
+      "target": "united",
+      "weight": 5
+    },
+    {
+      "source": "only",
+      "target": "world",
+      "weight": 5
+    },
+    {
+      "source": "about",
+      "target": "hormuz",
+      "weight": 4
+    },
+    {
+      "source": "about",
+      "target": "only",
+      "weight": 4
+    },
+    {
+      "source": "about",
+      "target": "strait",
+      "weight": 4
+    },
+    {
+      "source": "about",
+      "target": "war",
+      "weight": 4
+    },
+    {
+      "source": "again",
+      "target": "only",
+      "weight": 4
+    },
+    {
+      "source": "again",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "america",
+      "target": "deal",
+      "weight": 4
+    },
+    {
+      "source": "american",
+      "target": "far",
+      "weight": 4
+    },
+    {
+      "source": "american",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "else",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "hormuz",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "iran's",
+      "weight": 4
+    },
+    {
+      "source": "attack",
+      "target": "strait",
+      "weight": 4
+    },
+    {
+      "source": "country",
+      "target": "iran's",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "now",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "nuclear",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "war",
+      "weight": 4
+    },
+    {
+      "source": "deal",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "djt",
+      "target": "left",
+      "weight": 4
+    },
+    {
+      "source": "east",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "else",
+      "target": "far",
+      "weight": 4
+    },
+    {
+      "source": "else",
+      "target": "now",
+      "weight": 4
+    },
+    {
+      "source": "else",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "far",
+      "target": "now",
+      "weight": 4
+    },
+    {
+      "source": "left",
+      "target": "world",
+      "weight": 4
+    },
+    {
+      "source": "middle",
+      "target": "oil",
+      "weight": 4
+    },
+    {
+      "source": "now",
+      "target": "war",
+      "weight": 4
+    },
+    {
+      "source": "nuclear",
+      "target": "only",
+      "weight": 4
+    },
+    {
+      "source": "oil",
+      "target": "regime",
+      "weight": 4
+    },
+    {
+      "source": "about",
+      "target": "american",
+      "weight": 3
+    },
+    {
+      "source": "about",
+      "target": "deal",
+      "weight": 3
+    },
+    {
+      "source": "about",
+      "target": "iran's",
+      "weight": 3
+    },
+    {
+      "source": "again",
+      "target": "east",
+      "weight": 3
+    },
+    {
+      "source": "again",
+      "target": "middle",
+      "weight": 3
+    },
+    {
+      "source": "again",
+      "target": "nuclear",
+      "weight": 3
+    },
+    {
+      "source": "again",
+      "target": "regime",
+      "weight": 3
+    },
+    {
+      "source": "again",
+      "target": "war",
+      "weight": 3
+    },
+    {
+      "source": "american",
+      "target": "attack",
+      "weight": 3
+    },
+    {
+      "source": "american",
+      "target": "deal",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "deal",
+      "weight": 3
+    },
+    {
+      "source": "attack",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "country",
+      "target": "hormuz",
+      "weight": 3
+    },
+    {
+      "source": "country",
+      "target": "strait",
+      "weight": 3
+    },
+    {
+      "source": "deal",
+      "target": "djt",
+      "weight": 3
+    },
+    {
+      "source": "east",
+      "target": "left",
+      "weight": 3
+    },
+    {
+      "source": "east",
+      "target": "only",
+      "weight": 3
+    },
+    {
+      "source": "else",
+      "target": "left",
+      "weight": 3
+    },
+    {
+      "source": "far",
+      "target": "only",
+      "weight": 3
+    },
+    {
+      "source": "hormuz",
+      "target": "left",
+      "weight": 3
+    },
+    {
+      "source": "iran's",
+      "target": "left",
+      "weight": 3
+    },
+    {
+      "source": "iran's",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "left",
+      "target": "middle",
+      "weight": 3
+    },
+    {
+      "source": "left",
+      "target": "nuclear",
+      "weight": 3
+    },
+    {
+      "source": "left",
+      "target": "oil",
+      "weight": 3
+    },
+    {
+      "source": "left",
+      "target": "only",
+      "weight": 3
+    },
+    {
+      "source": "left",
+      "target": "strait",
+      "weight": 3
+    },
+    {
+      "source": "middle",
+      "target": "only",
+      "weight": 3
+    },
+    {
+      "source": "oil",
+      "target": "only",
+      "weight": 3
+    },
+    {
+      "source": "war",
+      "target": "world",
+      "weight": 3
+    }
+  ]
+}

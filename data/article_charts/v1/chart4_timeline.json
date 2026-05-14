@@ -1,0 +1,1010 @@
+{
+  "uso_daily_close": [
+    {
+      "date_et": "2026-01-26",
+      "uso_close": 73.4800033569336
+    },
+    {
+      "date_et": "2026-01-27",
+      "uso_close": 75.66000366210938
+    },
+    {
+      "date_et": "2026-01-28",
+      "uso_close": 76.62550354003906
+    },
+    {
+      "date_et": "2026-01-29",
+      "uso_close": 79.13999938964844
+    },
+    {
+      "date_et": "2026-01-30",
+      "uso_close": 79.52999877929688
+    },
+    {
+      "date_et": "2026-02-02",
+      "uso_close": 75.33000183105469
+    },
+    {
+      "date_et": "2026-02-03",
+      "uso_close": 77.4749984741211
+    },
+    {
+      "date_et": "2026-02-04",
+      "uso_close": 77.86000061035156
+    },
+    {
+      "date_et": "2026-02-05",
+      "uso_close": 76.69999694824219
+    },
+    {
+      "date_et": "2026-02-06",
+      "uso_close": 76.98500061035156
+    },
+    {
+      "date_et": "2026-02-09",
+      "uso_close": 78.0250015258789
+    },
+    {
+      "date_et": "2026-02-10",
+      "uso_close": 78.01000213623047
+    },
+    {
+      "date_et": "2026-02-11",
+      "uso_close": 78.9000015258789
+    },
+    {
+      "date_et": "2026-02-12",
+      "uso_close": 76.36000061035156
+    },
+    {
+      "date_et": "2026-02-13",
+      "uso_close": 76.22000122070312
+    },
+    {
+      "date_et": "2026-02-17",
+      "uso_close": 75.69999694824219
+    },
+    {
+      "date_et": "2026-02-18",
+      "uso_close": 79.41000366210938
+    },
+    {
+      "date_et": "2026-02-19",
+      "uso_close": 81.20999908447266
+    },
+    {
+      "date_et": "2026-02-20",
+      "uso_close": 80.83999633789062
+    },
+    {
+      "date_et": "2026-02-23",
+      "uso_close": 80.9000015258789
+    },
+    {
+      "date_et": "2026-02-24",
+      "uso_close": 80.76000213623047
+    },
+    {
+      "date_et": "2026-02-25",
+      "uso_close": 79.69999694824219
+    },
+    {
+      "date_et": "2026-02-26",
+      "uso_close": 79.77999877929688
+    },
+    {
+      "date_et": "2026-02-27",
+      "uso_close": 81.93000030517578
+    },
+    {
+      "date_et": "2026-03-02",
+      "uso_close": 87.18099975585938
+    },
+    {
+      "date_et": "2026-03-03",
+      "uso_close": 90.18000030517578
+    },
+    {
+      "date_et": "2026-03-04",
+      "uso_close": 91.54000091552734
+    },
+    {
+      "date_et": "2026-03-05",
+      "uso_close": 96.33999633789062
+    },
+    {
+      "date_et": "2026-03-06",
+      "uso_close": 108.91999816894531
+    },
+    {
+      "date_et": "2026-03-09",
+      "uso_close": 104.23999786376953
+    },
+    {
+      "date_et": "2026-03-10",
+      "uso_close": 105.94999694824219
+    },
+    {
+      "date_et": "2026-03-11",
+      "uso_close": 108.04989624023438
+    },
+    {
+      "date_et": "2026-03-12",
+      "uso_close": 118.37000274658203
+    },
+    {
+      "date_et": "2026-03-13",
+      "uso_close": 119.87999725341797
+    },
+    {
+      "date_et": "2026-03-16",
+      "uso_close": 115.0199966430664
+    },
+    {
+      "date_et": "2026-03-17",
+      "uso_close": 118.83999633789062
+    },
+    {
+      "date_et": "2026-03-18",
+      "uso_close": 121.62999725341797
+    },
+    {
+      "date_et": "2026-03-19",
+      "uso_close": 117.37000274658203
+    },
+    {
+      "date_et": "2026-03-20",
+      "uso_close": 121.44000244140625
+    },
+    {
+      "date_et": "2026-03-23",
+      "uso_close": 110.52999877929688
+    },
+    {
+      "date_et": "2026-03-24",
+      "uso_close": 114.53500366210938
+    },
+    {
+      "date_et": "2026-03-25",
+      "uso_close": 113.38999938964844
+    },
+    {
+      "date_et": "2026-03-26",
+      "uso_close": 117.30000305175781
+    },
+    {
+      "date_et": "2026-03-27",
+      "uso_close": 124.16999816894531
+    },
+    {
+      "date_et": "2026-03-30",
+      "uso_close": 129.8350067138672
+    },
+    {
+      "date_et": "2026-03-31",
+      "uso_close": 127.24500274658203
+    },
+    {
+      "date_et": "2026-04-01",
+      "uso_close": 124.0999984741211
+    },
+    {
+      "date_et": "2026-04-02",
+      "uso_close": 137.74000549316406
+    },
+    {
+      "date_et": "2026-04-06",
+      "uso_close": 138.91000366210938
+    },
+    {
+      "date_et": "2026-04-07",
+      "uso_close": 138.08990478515625
+    },
+    {
+      "date_et": "2026-04-08",
+      "uso_close": 124.4800033569336
+    },
+    {
+      "date_et": "2026-04-09",
+      "uso_close": 126.97000122070312
+    },
+    {
+      "date_et": "2026-04-10",
+      "uso_close": 124.83000183105469
+    },
+    {
+      "date_et": "2026-04-13",
+      "uso_close": 128.47000122070312
+    },
+    {
+      "date_et": "2026-04-14",
+      "uso_close": 123.88999938964844
+    },
+    {
+      "date_et": "2026-04-15",
+      "uso_close": 122.63999938964844
+    },
+    {
+      "date_et": "2026-04-16",
+      "uso_close": 125.8499984741211
+    },
+    {
+      "date_et": "2026-04-17",
+      "uso_close": 116.12000274658203
+    },
+    {
+      "date_et": "2026-04-20",
+      "uso_close": 121.33999633789062
+    },
+    {
+      "date_et": "2026-04-21",
+      "uso_close": 128.24000549316406
+    }
+  ],
+  "xle_daily_close": [
+    {
+      "date_et": "2026-01-26",
+      "xle_close": 49.20000076293945
+    },
+    {
+      "date_et": "2026-01-27",
+      "xle_close": 49.65999984741211
+    },
+    {
+      "date_et": "2026-01-28",
+      "xle_close": 50.029998779296875
+    },
+    {
+      "date_et": "2026-01-29",
+      "xle_close": 50.5099983215332
+    },
+    {
+      "date_et": "2026-01-30",
+      "xle_close": 50.375
+    },
+    {
+      "date_et": "2026-02-02",
+      "xle_close": 50.04999923706055
+    },
+    {
+      "date_et": "2026-02-03",
+      "xle_close": 51.65999984741211
+    },
+    {
+      "date_et": "2026-02-04",
+      "xle_close": 52.81999969482422
+    },
+    {
+      "date_et": "2026-02-05",
+      "xle_close": 52.22999954223633
+    },
+    {
+      "date_et": "2026-02-06",
+      "xle_close": 53.23500061035156
+    },
+    {
+      "date_et": "2026-02-09",
+      "xle_close": 53.625
+    },
+    {
+      "date_et": "2026-02-10",
+      "xle_close": 53.58000183105469
+    },
+    {
+      "date_et": "2026-02-11",
+      "xle_close": 54.97999954223633
+    },
+    {
+      "date_et": "2026-02-12",
+      "xle_close": 53.959999084472656
+    },
+    {
+      "date_et": "2026-02-13",
+      "xle_close": 54.349998474121094
+    },
+    {
+      "date_et": "2026-02-17",
+      "xle_close": 53.7599983215332
+    },
+    {
+      "date_et": "2026-02-18",
+      "xle_close": 54.779998779296875
+    },
+    {
+      "date_et": "2026-02-19",
+      "xle_close": 55.17499923706055
+    },
+    {
+      "date_et": "2026-02-20",
+      "xle_close": 54.900001525878906
+    },
+    {
+      "date_et": "2026-02-23",
+      "xle_close": 55.150001525878906
+    },
+    {
+      "date_et": "2026-02-24",
+      "xle_close": 55.11000061035156
+    },
+    {
+      "date_et": "2026-02-25",
+      "xle_close": 54.8650016784668
+    },
+    {
+      "date_et": "2026-02-26",
+      "xle_close": 55.04999923706055
+    },
+    {
+      "date_et": "2026-02-27",
+      "xle_close": 55.90999984741211
+    },
+    {
+      "date_et": "2026-03-02",
+      "xle_close": 57.025001525878906
+    },
+    {
+      "date_et": "2026-03-03",
+      "xle_close": 56.529998779296875
+    },
+    {
+      "date_et": "2026-03-04",
+      "xle_close": 56.18000030517578
+    },
+    {
+      "date_et": "2026-03-05",
+      "xle_close": 56.5
+    },
+    {
+      "date_et": "2026-03-06",
+      "xle_close": 56.560001373291016
+    },
+    {
+      "date_et": "2026-03-09",
+      "xle_close": 56.32590103149414
+    },
+    {
+      "date_et": "2026-03-10",
+      "xle_close": 55.61000061035156
+    },
+    {
+      "date_et": "2026-03-11",
+      "xle_close": 57.0
+    },
+    {
+      "date_et": "2026-03-12",
+      "xle_close": 57.52000045776367
+    },
+    {
+      "date_et": "2026-03-13",
+      "xle_close": 57.689998626708984
+    },
+    {
+      "date_et": "2026-03-16",
+      "xle_close": 57.900001525878906
+    },
+    {
+      "date_et": "2026-03-17",
+      "xle_close": 58.509700775146484
+    },
+    {
+      "date_et": "2026-03-18",
+      "xle_close": 58.43000030517578
+    },
+    {
+      "date_et": "2026-03-19",
+      "xle_close": 59.380001068115234
+    },
+    {
+      "date_et": "2026-03-20",
+      "xle_close": 59.34000015258789
+    },
+    {
+      "date_et": "2026-03-23",
+      "xle_close": 59.61000061035156
+    },
+    {
+      "date_et": "2026-03-24",
+      "xle_close": 60.82500076293945
+    },
+    {
+      "date_et": "2026-03-25",
+      "xle_close": 60.58000183105469
+    },
+    {
+      "date_et": "2026-03-26",
+      "xle_close": 61.529998779296875
+    },
+    {
+      "date_et": "2026-03-27",
+      "xle_close": 62.560001373291016
+    },
+    {
+      "date_et": "2026-03-30",
+      "xle_close": 61.959999084472656
+    },
+    {
+      "date_et": "2026-03-31",
+      "xle_close": 61.2400016784668
+    },
+    {
+      "date_et": "2026-04-01",
+      "xle_close": 58.974998474121094
+    },
+    {
+      "date_et": "2026-04-02",
+      "xle_close": 59.2599983215332
+    },
+    {
+      "date_et": "2026-04-06",
+      "xle_close": 59.68000030517578
+    },
+    {
+      "date_et": "2026-04-07",
+      "xle_close": 60.15999984741211
+    },
+    {
+      "date_et": "2026-04-08",
+      "xle_close": 58.06999969482422
+    },
+    {
+      "date_et": "2026-04-09",
+      "xle_close": 57.34000015258789
+    },
+    {
+      "date_et": "2026-04-10",
+      "xle_close": 56.939998626708984
+    },
+    {
+      "date_et": "2026-04-13",
+      "xle_close": 57.125
+    },
+    {
+      "date_et": "2026-04-14",
+      "xle_close": 55.91999816894531
+    },
+    {
+      "date_et": "2026-04-15",
+      "xle_close": 55.7599983215332
+    },
+    {
+      "date_et": "2026-04-16",
+      "xle_close": 56.595001220703125
+    },
+    {
+      "date_et": "2026-04-17",
+      "xle_close": 54.9900016784668
+    },
+    {
+      "date_et": "2026-04-20",
+      "xle_close": 55.08000183105469
+    },
+    {
+      "date_et": "2026-04-21",
+      "xle_close": 55.849998474121094
+    }
+  ],
+  "burst_markers": [
+    {
+      "burst_id": 1,
+      "ts_first_utc": "2026-02-01T18:51:11.880000+00:00",
+      "ts_first_et": "2026-02-01T13:51:11.880000-05:00",
+      "date_et": "2026-02-01",
+      "duration_min": 1.53,
+      "n_posts": 7,
+      "pnl_total": -24909924.64,
+      "sample_text": "RT @realDonaldTrumpI am hearing that Bluffton City Councilman Blake Fiechter, a True America First Patriot, is considering a primary challenge against \"RINO\" S\u2026"
+    },
+    {
+      "burst_id": 2,
+      "ts_first_utc": "2026-02-02T14:25:44.557000+00:00",
+      "ts_first_et": "2026-02-02T09:25:44.557000-05:00",
+      "date_et": "2026-02-02",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": -3558560.66,
+      "sample_text": "Trump Says He Welcomes China, India Investment in Venezuela Oil: https://www.bloomberg.com/news/articles/2026-02-01/trump-says-he-welcomes-china-india-investme\u2026"
+    },
+    {
+      "burst_id": 3,
+      "ts_first_utc": "2026-02-02T16:58:20.088000+00:00",
+      "ts_first_et": "2026-02-02T11:58:20.088000-05:00",
+      "date_et": "2026-02-02",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": -3558560.66,
+      "sample_text": "It was an Honor to speak with Prime Minister Modi, of India, this morning. He is one of my greatest friends and, a Powerful and Respected Leader of his Country\u2026"
+    },
+    {
+      "burst_id": 4,
+      "ts_first_utc": "2026-02-04T15:38:27.342000+00:00",
+      "ts_first_et": "2026-02-04T10:38:27.342000-05:00",
+      "date_et": "2026-02-04",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 44825.98,
+      "sample_text": "I have just completed an excellent telephone conversation with President Xi, of China. It was a long and thorough call, where many important subjects were disc\u2026"
+    },
+    {
+      "burst_id": 5,
+      "ts_first_utc": "2026-02-10T23:50:33.622000+00:00",
+      "ts_first_et": "2026-02-10T18:50:33.622000-05:00",
+      "date_et": "2026-02-10",
+      "duration_min": 4.19,
+      "n_posts": 7,
+      "pnl_total": 0.0,
+      "sample_text": "Congressman Aaron Bean is a Tremendous Champion for Florida's 4th Congressional District! As a Member of the POWERFUL Ways & Means Committee, Aaron knows the A\u2026"
+    },
+    {
+      "burst_id": 6,
+      "ts_first_utc": "2026-02-17T01:01:35.883000+00:00",
+      "ts_first_et": "2026-02-16T20:01:35.883000-05:00",
+      "date_et": "2026-02-16",
+      "duration_min": 1.64,
+      "n_posts": 4,
+      "pnl_total": 0.0,
+      "sample_text": "Jon Bonck is an incredible Candidate running to represent the fantastic people of Texas' 38th Congressional District. He is supported by many MAGA Patriots, in\u2026"
+    },
+    {
+      "burst_id": 7,
+      "ts_first_utc": "2026-02-17T02:08:23.823000+00:00",
+      "ts_first_et": "2026-02-16T21:08:23.823000-05:00",
+      "date_et": "2026-02-16",
+      "duration_min": 4.25,
+      "n_posts": 19,
+      "pnl_total": 0.0,
+      "sample_text": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas' 1st Congressional District! Nathaniel has an incredible Record of\u2026"
+    },
+    {
+      "burst_id": 8,
+      "ts_first_utc": "2026-02-17T15:03:59.984000+00:00",
+      "ts_first_et": "2026-02-17T10:03:59.984000-05:00",
+      "date_et": "2026-02-17",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 1597362.73,
+      "sample_text": "RT @realDonaldTrumpIt is my Great Honor to endorse America First Patriot, Clay Fuller, who is running to represent the wonderful people of Georgia's 14th Congr\u2026"
+    },
+    {
+      "burst_id": 9,
+      "ts_first_utc": "2026-02-19T01:26:34.705000+00:00",
+      "ts_first_et": "2026-02-18T20:26:34.705000-05:00",
+      "date_et": "2026-02-18",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 0.0,
+      "sample_text": "It is my Great Honor to nominate Justin Smith to serve as Judge on the United States Court of Appeals for the Eighth Circuit in Missouri. Justin is a very Smar\u2026"
+    },
+    {
+      "burst_id": 10,
+      "ts_first_utc": "2026-03-03T22:04:29.988000+00:00",
+      "ts_first_et": "2026-03-03T17:04:29.988000-05:00",
+      "date_et": "2026-03-03",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 0.0,
+      "sample_text": "It is my Great Honor to endorse Aaron Flint, who is running to represent the tremendous people of Montana's 1st Congressional District. Aaron is a MAGA Warrior\u2026"
+    },
+    {
+      "burst_id": 11,
+      "ts_first_utc": "2026-03-10T00:30:40.041000+00:00",
+      "ts_first_et": "2026-03-09T20:30:40.041000-04:00",
+      "date_et": "2026-03-09",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 0.0,
+      "sample_text": "If Iran does anything that stops the flow of Oil within the Strait of Hormuz, they will be hit by the United States of America TWENTY TIMES HARDER than they ha\u2026"
+    },
+    {
+      "burst_id": 12,
+      "ts_first_utc": "2026-03-21T16:52:28.021000+00:00",
+      "ts_first_et": "2026-03-21T12:52:28.021000-04:00",
+      "date_et": "2026-03-21",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": 0.0,
+      "sample_text": "Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Louisiana, is a Great Star, has been from the very beginning, and only ge\u2026"
+    },
+    {
+      "burst_id": 13,
+      "ts_first_utc": "2026-03-23T14:29:33.266000+00:00",
+      "ts_first_et": "2026-03-23T10:29:33.266000-04:00",
+      "date_et": "2026-03-23",
+      "duration_min": 0.0,
+      "n_posts": 1,
+      "pnl_total": -31925405.59,
+      "sample_text": "RT @realDonaldTrumpI AM PLEASED TO REPORT THAT THE UNITED STATES OF AMERICA, AND THE COUNTRY OF IRAN, HAVE HAD, OVER THE LAST TWO DAYS, VERY GOOD AND PRODUCTIV\u2026"
+    },
+    {
+      "burst_id": 14,
+      "ts_first_utc": "2026-03-24T19:45:10.326000+00:00",
+      "ts_first_et": "2026-03-24T15:45:10.326000-04:00",
+      "date_et": "2026-03-24",
+      "duration_min": 12.8,
+      "n_posts": 7,
+      "pnl_total": 9273343.81,
+      "sample_text": "Bluffton City Councilman Blake Fiechter, a True America First Patriot, is running against \"RINO\" State Senator Travis Holdman, in Indiana's 19th Senate Distric\u2026"
+    },
+    {
+      "burst_id": 15,
+      "ts_first_utc": "2026-04-07T20:13:09.030000+00:00",
+      "ts_first_et": "2026-04-07T16:13:09.030000-04:00",
+      "date_et": "2026-04-07",
+      "duration_min": 13.96,
+      "n_posts": 28,
+      "pnl_total": 212918723.61,
+      "sample_text": "State Representative Jim Pressel is a Tremendous Champion for the incredible people of Indiana's 20th State House District! A successful Businessman, Jim knows\u2026"
+    }
+  ],
+  "daily_post_counts": [
+    {
+      "date_et": "2026-01-25",
+      "n_posts": 2,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-01-26",
+      "n_posts": 15,
+      "n_oil_posts": 3
+    },
+    {
+      "date_et": "2026-01-27",
+      "n_posts": 13,
+      "n_oil_posts": 7
+    },
+    {
+      "date_et": "2026-01-28",
+      "n_posts": 29,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-01-29",
+      "n_posts": 34,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-01-30",
+      "n_posts": 14,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-01-31",
+      "n_posts": 18,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-01",
+      "n_posts": 27,
+      "n_oil_posts": 7
+    },
+    {
+      "date_et": "2026-02-02",
+      "n_posts": 20,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-02-03",
+      "n_posts": 10,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-04",
+      "n_posts": 23,
+      "n_oil_posts": 16
+    },
+    {
+      "date_et": "2026-02-05",
+      "n_posts": 75,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-02-06",
+      "n_posts": 34,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-07",
+      "n_posts": 5,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-08",
+      "n_posts": 12,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-09",
+      "n_posts": 3,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-10",
+      "n_posts": 23,
+      "n_oil_posts": 7
+    },
+    {
+      "date_et": "2026-02-11",
+      "n_posts": 46,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-12",
+      "n_posts": 11,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-02-13",
+      "n_posts": 9,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-14",
+      "n_posts": 2,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-15",
+      "n_posts": 1,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-16",
+      "n_posts": 31,
+      "n_oil_posts": 23
+    },
+    {
+      "date_et": "2026-02-17",
+      "n_posts": 33,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-02-18",
+      "n_posts": 19,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-02-19",
+      "n_posts": 14,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-20",
+      "n_posts": 10,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-21",
+      "n_posts": 19,
+      "n_oil_posts": 3
+    },
+    {
+      "date_et": "2026-02-22",
+      "n_posts": 8,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-23",
+      "n_posts": 28,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-24",
+      "n_posts": 1,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-25",
+      "n_posts": 10,
+      "n_oil_posts": 6
+    },
+    {
+      "date_et": "2026-02-26",
+      "n_posts": 4,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-02-27",
+      "n_posts": 71,
+      "n_oil_posts": 19
+    },
+    {
+      "date_et": "2026-02-28",
+      "n_posts": 7,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-01",
+      "n_posts": 29,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-02",
+      "n_posts": 22,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-03",
+      "n_posts": 60,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-03-04",
+      "n_posts": 22,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-03-05",
+      "n_posts": 24,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-06",
+      "n_posts": 40,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-07",
+      "n_posts": 6,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-08",
+      "n_posts": 5,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-09",
+      "n_posts": 15,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-10",
+      "n_posts": 20,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-03-11",
+      "n_posts": 15,
+      "n_oil_posts": 3
+    },
+    {
+      "date_et": "2026-03-12",
+      "n_posts": 6,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-13",
+      "n_posts": 32,
+      "n_oil_posts": 4
+    },
+    {
+      "date_et": "2026-03-14",
+      "n_posts": 6,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-15",
+      "n_posts": 5,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-16",
+      "n_posts": 16,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-17",
+      "n_posts": 5,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-18",
+      "n_posts": 21,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-19",
+      "n_posts": 17,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-20",
+      "n_posts": 7,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-03-21",
+      "n_posts": 9,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-22",
+      "n_posts": 18,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-23",
+      "n_posts": 20,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-03-24",
+      "n_posts": 30,
+      "n_oil_posts": 19
+    },
+    {
+      "date_et": "2026-03-25",
+      "n_posts": 10,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-26",
+      "n_posts": 17,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-27",
+      "n_posts": 5,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-28",
+      "n_posts": 6,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-29",
+      "n_posts": 26,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-03-30",
+      "n_posts": 7,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-03-31",
+      "n_posts": 16,
+      "n_oil_posts": 1
+    },
+    {
+      "date_et": "2026-04-01",
+      "n_posts": 13,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-04-02",
+      "n_posts": 13,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-04-03",
+      "n_posts": 8,
+      "n_oil_posts": 2
+    },
+    {
+      "date_et": "2026-04-04",
+      "n_posts": 10,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-04-05",
+      "n_posts": 11,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-04-06",
+      "n_posts": 20,
+      "n_oil_posts": 0
+    },
+    {
+      "date_et": "2026-04-07",
+      "n_posts": 38,
+      "n_oil_posts": 28
+    },
+    {
+      "date_et": "2026-04-08",
+      "n_posts": 10,
+      "n_oil_posts": 0
+    }
+  ]
+}
